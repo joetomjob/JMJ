@@ -53,6 +53,7 @@ public class Stack {
         while (!n.isEmpty()){
             System.out.println(n.remove());
         }
+        
 
     }
 }

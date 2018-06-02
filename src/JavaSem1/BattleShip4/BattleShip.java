@@ -1,5 +1,4 @@
 package BattleShip4;
-
 import java.util.Scanner;
 
 

@@ -1,3 +1,5 @@
+package inter;
+
 import java.io.*;
 import java.util.*;
 import java.util.stream.*;
@@ -20,7 +22,7 @@ class EmployeeStats {
         if (!(o instanceof EmployeeStats)) {
             return false;
         }
-        EmployeeStats other = (EmployeeStats)o;
+        EmployeeStats other = (EmployeeStats) o;
         return
                 employees == other.employees &&
                         employeesWithOutsideFriends == other.employeesWithOutsideFriends;
@@ -34,7 +36,7 @@ class EmployeeStats {
 
 class Helpers {
 
-    static class Pair <T1, T2> {
+    static class Pair<T1, T2> {
         private T1 first;
         private T2 second;
 
@@ -43,8 +45,13 @@ class Helpers {
             this.second = second;
         }
 
-        public T1 getFirst() { return first; }
-        public T2 getSecond() { return second; }
+        public T1 getFirst() {
+            return first;
+        }
+
+        public T2 getSecond() {
+            return second;
+        }
     }
 
     @SafeVarargs
@@ -65,13 +72,12 @@ class Helpers {
 // END DEFINITIONS
 
 
-
-class EmployeeModel{
+class EmployeeModel {
     public String name;
     public int empId;
     public String dept;
 
-    EmployeeModel(String name, int empId, String dept){
+    EmployeeModel(String name, int empId, String dept) {
         this.name = name;
         this.empId = empId;
         this.dept = dept;
@@ -80,81 +86,75 @@ class EmployeeModel{
 
 }
 
-class FriendModel{
+class FriendModel {
     public int empId1;
     public int empId2;
 
-    FriendModel(int empId1, int empId2){
+    FriendModel(int empId1, int empId2) {
         this.empId1 = empId1;
         this.empId2 = empId2;
     }
 
 }
 
- class Intuit {
+class Intuit {
 
     public static Map<String, EmployeeStats> getEmployeeStats(List<String> employees, List<String> friendships) {
         // IMPLEMENTATION GOES HERE
 
         Map<String, EmployeeStats> result = new HashMap<>();
-
-        Map<String, List<EmployeeModel>> adjacencyList = new HashMap<>();
         Set<String> departments = new HashSet<>();
 
         Map<Integer, EmployeeModel> empList = new HashMap<>();
-        for(String s1 : employees){
-            String [] employee = s1.split(" ");
-            for(String s: employee){
-                String arr[] = s.split(",");
-                departments.add(arr[2]);
-                if(!empList.containsKey(Integer.parseInt(arr[0]))){
-                    empList.put(Integer.parseInt(arr[0]), new EmployeeModel(arr[1], Integer.parseInt(arr[0]), arr[2]));
-                }
+
+
+        for (String s : employees) {
+            String arr[] = s.split(",");
+            departments.add(arr[2]);
+            if (!empList.containsKey(Integer.parseInt(arr[0]))) {
+                empList.put(Integer.parseInt(arr[0]), new EmployeeModel(arr[1], Integer.parseInt(arr[0]), arr[2]));
             }
         }
+
 
         // System.out.println(departments);
 
         Map<Integer, ArrayList<Integer>> friendList = new HashMap<>();
 
-        for(String s2 : friendships){
-            String [] friends = s2.split(" ");
-            for(String s: friends){
-                String arr[] = s.split(",");
-                if(!friendList.containsKey(Integer.parseInt(arr[0]))){
-                    ArrayList<Integer> tempArr = new ArrayList<>();
-                    tempArr.add(Integer.parseInt(arr[1]));
-                    friendList.put(Integer.parseInt(arr[0]), tempArr);
-                    if(!friendList.containsKey(Integer.parseInt(arr[1]))){
-                        ArrayList<Integer> tempArr1 = new ArrayList<>();
-                        tempArr1.add(Integer.parseInt(arr[0]));
-                        friendList.put(Integer.parseInt(arr[1]), tempArr1);
-                    }
-                    else{
-                        ArrayList<Integer> tempArr2 = friendList.get(Integer.parseInt(arr[1]));
-                        tempArr2.add(Integer.parseInt(arr[0]));
-                        friendList.put(Integer.parseInt(arr[1]),tempArr2);
-                    }
-                }
-                else{
-                    ArrayList<Integer> tempArr2 = friendList.get(Integer.parseInt(arr[0]));
-                    tempArr2.add(Integer.parseInt(arr[1]));
-                    friendList.put(Integer.parseInt(arr[0]),tempArr2);
 
-                    if(!friendList.containsKey(Integer.parseInt(arr[1]))){
-                        ArrayList<Integer> tempArr1 = new ArrayList<>();
-                        tempArr1.add(Integer.parseInt(arr[0]));
-                        friendList.put(Integer.parseInt(arr[1]), tempArr1);
-                    }
-                    else{
-                        ArrayList<Integer> tempArr3 = friendList.get(Integer.parseInt(arr[1]));
-                        tempArr3.add(Integer.parseInt(arr[0]));
-                        friendList.put(Integer.parseInt(arr[1]),tempArr3);
-                    }
+        for (String s : friendships) {
+            String arr[] = s.split(",");
+            if (!friendList.containsKey(Integer.parseInt(arr[0]))) {
+                ArrayList<Integer> tempArr = new ArrayList<>();
+                tempArr.add(Integer.parseInt(arr[1]));
+                friendList.put(Integer.parseInt(arr[0]), tempArr);
+                if (!friendList.containsKey(Integer.parseInt(arr[1]))) {
+                    ArrayList<Integer> tempArr1 = new ArrayList<>();
+                    tempArr1.add(Integer.parseInt(arr[0]));
+                    friendList.put(Integer.parseInt(arr[1]), tempArr1);
+                } else {
+                    ArrayList<Integer> tempArr2 = friendList.get(Integer.parseInt(arr[1]));
+                    tempArr2.add(Integer.parseInt(arr[0]));
+                    friendList.put(Integer.parseInt(arr[1]), tempArr2);
                 }
+            } else {
+                ArrayList<Integer> tempArr2 = friendList.get(Integer.parseInt(arr[0]));
+                tempArr2.add(Integer.parseInt(arr[1]));
+                friendList.put(Integer.parseInt(arr[0]), tempArr2);
 
+                if (!friendList.containsKey(Integer.parseInt(arr[1]))) {
+                    ArrayList<Integer> tempArr1 = new ArrayList<>();
+                    tempArr1.add(Integer.parseInt(arr[0]));
+                    friendList.put(Integer.parseInt(arr[1]), tempArr1);
+                } else {
+                    ArrayList<Integer> tempArr3 = friendList.get(Integer.parseInt(arr[1]));
+                    tempArr3.add(Integer.parseInt(arr[0]));
+                    friendList.put(Integer.parseInt(arr[1]), tempArr3);
+                }
             }
+
         }
+
 
         // System.out.println(empList);
         System.out.println(friendList);
@@ -171,22 +171,21 @@ class FriendModel{
         Map<Integer, ArrayList<Integer>> resHelper = new HashMap<>();
 
 
-
         Map<String, Set<Integer>> resultHelper = new HashMap<>();
 
-        for(String dept : departments){
-            if(!resultHelper.containsKey(dept)){
+        for (String dept : departments) {
+            if (!resultHelper.containsKey(dept)) {
                 resultHelper.put(dept, new HashSet<Integer>());
             }
         }
 
 
         //iterating throguh the employees List
-        for(Map.Entry<Integer, ArrayList<Integer>> entry : friendList.entrySet()){
+        for (Map.Entry<Integer, ArrayList<Integer>> entry : friendList.entrySet()) {
             String deptName = empList.get(entry.getKey()).dept;
             int val = entry.getKey();
-            for(int i : entry.getValue()){
-                if(!empList.get(i).dept.equalsIgnoreCase(deptName)){
+            for (int i : entry.getValue()) {
+                if (!empList.get(i).dept.equalsIgnoreCase(deptName)) {
                     resultHelper.get(deptName).add(val);
                     break;
                 }
@@ -198,24 +197,24 @@ class FriendModel{
 
 
         Map<String, Integer> resultHelper2 = new HashMap<>();
-        for(String dept : departments){
-            if(!resultHelper2.containsKey(dept)){
+        for (String dept : departments) {
+            if (!resultHelper2.containsKey(dept)) {
                 resultHelper2.put(dept, 0);
             }
         }
 
-        for(Map.Entry<Integer, EmployeeModel> entry2 : empList.entrySet()){
-            if(empList.containsKey(entry2.getKey())){
-                if(resultHelper2.containsKey(entry2.getValue().dept)){
+        for (Map.Entry<Integer, EmployeeModel> entry2 : empList.entrySet()) {
+            if (empList.containsKey(entry2.getKey())) {
+                if (resultHelper2.containsKey(entry2.getValue().dept)) {
                     int val = resultHelper2.get(entry2.getValue().dept);
                     resultHelper2.put(entry2.getValue().dept, ++val);
                 }
             }
         }
 
-        for(String dept : departments){
-            if(!result.containsKey(dept)){
-                EmployeeStats es = new EmployeeStats(0,0);
+        for (String dept : departments) {
+            if (!result.containsKey(dept)) {
+                EmployeeStats es = new EmployeeStats(0, 0);
                 es.employees = resultHelper2.get(dept);
                 es.employeesWithOutsideFriends = resultHelper.get(dept).size();
                 result.put(dept, es);
