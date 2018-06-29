@@ -2,7 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ab7d617-185b-42c2-9936-a1f85a2ae5f7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ctci/LinkedList/intersection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JMJ/Codility/BinaryGap.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/BinarySearchTree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/DeleteNodeLinkedList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/LinkedListCycle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/ListNode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/LongestCommonPrefix.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/MergeTwoSortedLists.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/MoveZeroes.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/PallindromeLinkedList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/PlusOne.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/RemoveNthNode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/ReverseLinkedList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/TreeNode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/TreeTraversal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/TwoSum.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/ValidSudoku.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codility/BinaryGap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codility/FrogJump.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codility/FrogRiverOne.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codility/MaxCounters.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codility/MissingInteger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codility/OddOccurrencesInArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codility/PermCheck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codility/PermMissingElem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codility/RotateArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Codility/TapeEquilibrium.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/BinarySearchTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/DeleteNodeLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/LinkedListCycle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/LongestCommonPrefix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/MergeTwoSortedLists.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/MoveZeroes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/PallindromeLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/PlusOne.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/RemoveNthNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/ReverseLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/TreeTraversal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/TwoSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/ValidSudoku.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,60 +62,111 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="deleteNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ctci/LinkedList/deleteNode.java">
+      <file leaf-file-name="BinaryGap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Codility/BinaryGap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="40" lean-forward="false" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+            <state relative-caret-position="255">
+              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding>
+                <element signature="e#577#578#0" expanded="true" />
+                <element signature="e#625#626#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RotateArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Codility/RotateArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="removeDuplicate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ctci/LinkedList/removeDuplicate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoopDetection.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ctci/LinkedList/LoopDetection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DeleteMiddleNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ctci/LinkedList/DeleteMiddleNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="885">
-              <caret line="59" column="5" lean-forward="false" selection-start-line="34" selection-start-column="3" selection-end-line="59" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ctci/LinkedList/List.java">
+      <file leaf-file-name="OddOccurrencesInArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Codility/OddOccurrencesInArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              <caret line="11" column="17" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="11" selection-end-column="17" />
               <folding>
-                <element signature="e#142#143#0" expanded="false" />
-                <element signature="e#168#169#0" expanded="false" />
-                <element signature="e#633#634#0" expanded="false" />
-                <element signature="e#665#666#0" expanded="false" />
-                <element signature="method#insert#0;class#List#0" expanded="false" />
-                <element signature="method#deleteNode#0;class#List#0" expanded="false" />
-                <element signature="method#main#0;class#List#0" expanded="false" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FrogJump.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Codility/FrogJump.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PermMissingElem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Codility/PermMissingElem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TapeEquilibrium.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Codility/TapeEquilibrium.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="20" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PermCheck.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Codility/PermCheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FrogRiverOne.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Codility/FrogRiverOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MissingInteger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Codility/MissingInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxCounters.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Codility/MaxCounters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="25" column="9" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="25" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -97,7 +186,6 @@
     <findStrings>
       <find>lowe</find>
       <find>sort</find>
-      <find>&quot;</find>
       <find>Intuit</find>
       <find>EmployeeStats</find>
       <find>Helpers</find>
@@ -106,6 +194,10 @@
       <find>lst</find>
       <find>employeeMap</find>
       <find>resultHelper</find>
+      <find>&quot;</find>
+      <find>[</find>
+      <find>}</find>
+      <find>]</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -119,29 +211,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ctci/LinkedList/List.java" />
-        <option value="$PROJECT_DIR$/src/ctci/LinkedList/removeDuplicate.java" />
-        <option value="$PROJECT_DIR$/src/ctci/LinkedList/kthtoLastElement.java" />
-        <option value="$PROJECT_DIR$/src/ctci/LinkedList/deleteNode.java" />
-        <option value="$PROJECT_DIR$/src/ctci/ArraysAndStrings/ZeroMatrix.java" />
-        <option value="$PROJECT_DIR$/src/ctci/ArraysAndStrings/RotateMatrix.java" />
-        <option value="$PROJECT_DIR$/src/ctci/ArraysAndStrings/isSubString.java" />
-        <option value="$PROJECT_DIR$/src/ctci/LinkedList/partition.java" />
-        <option value="$PROJECT_DIR$/src/AlgorithmsHW/HW2/Angles.java" />
-        <option value="$PROJECT_DIR$/src/IB/prettyprint.java" />
-        <option value="$PROJECT_DIR$/src/ctci/lucid.java" />
-        <option value="$PROJECT_DIR$/src/IB/Anagram.java" />
-        <option value="$PROJECT_DIR$/src/codefights/sudoku.java" />
-        <option value="$PROJECT_DIR$/src/testing/Stack.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/pallindrome.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/reversewords.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/reversewordsII.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/SpiralMatrix.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/reverseLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/AddTwoNosLinkedListI.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/AddTwoNosII.java" />
-        <option value="$USER_HOME$/Documents/Joe/RIT/RA_Dr_Mehdi/APIRec/Tool/finesand/project/scala_first.scala" />
-        <option value="$PROJECT_DIR$/src/JavaSem1/BattleShip4/BattleShip.java" />
         <option value="$PROJECT_DIR$/src/API_Recommendation/ASTDiff.java" />
         <option value="$PROJECT_DIR$/src/inter/IntuitRas.kt" />
         <option value="$PROJECT_DIR$/src/inter/IntuitKet.java" />
@@ -170,6 +239,29 @@
         <option value="$PROJECT_DIR$/src/ctci/LinkedList/Pallindrome.java" />
         <option value="$PROJECT_DIR$/src/ctci/LinkedList/intersection.java" />
         <option value="$PROJECT_DIR$/src/ctci/LinkedList/LoopDetection.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/PlusOne.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/MoveZeroes.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/ValidSudoku.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/LongestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/DeleteNodeLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/RemoveNthNode.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/ReverseLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/MergeTwoSortedLists.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/PallindromeLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/LinkedListCycle.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/TreeTraversal.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/Codility/BinaryGap.java" />
+        <option value="$PROJECT_DIR$/src/Codility/RotateArray.java" />
+        <option value="$PROJECT_DIR$/src/Codility/OddOccurrencesInArray.java" />
+        <option value="$PROJECT_DIR$/src/Codility/FrogJump.java" />
+        <option value="$PROJECT_DIR$/src/Codility/PermMissingElem.java" />
+        <option value="$PROJECT_DIR$/src/Codility/TapeEquilibrium.java" />
+        <option value="$PROJECT_DIR$/src/Codility/PermCheck.java" />
+        <option value="$PROJECT_DIR$/src/Codility/FrogRiverOne.java" />
+        <option value="$PROJECT_DIR$/src/Codility/MissingInteger.java" />
+        <option value="$PROJECT_DIR$/src/Codility/MaxCounters.java" />
       </list>
     </option>
   </component>
@@ -196,7 +288,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -237,35 +328,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ctci" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JMJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JMJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ctci" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LinkedList" />
+              <option name="myItemId" value="Codility" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -288,15 +358,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LoopDetection">
-    <configuration default="false" name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.FrogJump">
+    <configuration default="false" name="TreeTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ctci.LinkedList.*" />
+          <option name="PATTERN" value="LeetCode.LeetCode_Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ctci.LinkedList.ReverseLinkedList" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.LeetCode_Easy.TreeTraversal" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -309,14 +379,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="SumLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TreeTraversalRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ctci.LinkedList.*" />
+          <option name="PATTERN" value="IB.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ctci.LinkedList.SumLists" />
+      <option name="MAIN_CLASS_NAME" value="IB.TreeTraversalRecursive" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -329,14 +399,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Pallindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ctci.LinkedList.*" />
+          <option name="PATTERN" value="LeetCode.LeetCode_Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ctci.LinkedList.Pallindrome" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.LeetCode_Easy.BinarySearchTree" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -349,14 +419,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="intersection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="BinaryGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ctci.LinkedList.*" />
+          <option name="PATTERN" value="Codility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ctci.LinkedList.intersection" />
+      <option name="MAIN_CLASS_NAME" value="Codility.BinaryGap" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -369,14 +439,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="LoopDetection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="FrogJump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ctci.LinkedList.*" />
+          <option name="PATTERN" value="Codility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ctci.LinkedList.LoopDetection" />
+      <option name="MAIN_CLASS_NAME" value="Codility.FrogJump" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -666,19 +736,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Scala Console.Scala Console" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ReverseLinkedList" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SumLists" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Pallindrome" />
-      <item index="4" class="java.lang.String" itemvalue="Application.intersection" />
-      <item index="5" class="java.lang.String" itemvalue="Application.LoopDetection" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TreeTraversal" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TreeTraversalRecursive" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BinarySearchTree" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BinaryGap" />
+      <item index="5" class="java.lang.String" itemvalue="Application.FrogJump" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LoopDetection" />
-        <item index="1" class="java.lang.String" itemvalue="Application.intersection" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Pallindrome" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SumLists" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ReverseLinkedList" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FrogJump" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BinaryGap" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BinarySearchTree" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TreeTraversal" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TreeTraversalRecursive" />
       </list>
     </recent_temporary>
   </component>
@@ -737,13 +807,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35572138" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35572138" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32043532" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25035766" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25751072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1071,11 +1141,29 @@
           <properties />
           <option name="timeStamp" value="224" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/ValidSudoku.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/LongestCommonPrefix.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/MergeTwoSortedLists.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="226" />
+      <option name="time" value="238" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1084,187 +1172,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/inter/reversesummation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inter/IntuitLongWordsMatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSem1/Networking/DayTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSem1/Networking/DayTimeUDP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSem1/Int/micro_ganesh_summer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSem1/Pikachu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSem1/pikachuarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSem1/BattleShipRuzan/Fleet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="67" column="3" lean-forward="false" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSem1/BattleShipRuzan/ControllerI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSem1/BattleShipRMI/BattleShipClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-298">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSem1/PiPrecision.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSem1/BattleShipTCP/BattleShip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSem1/BattleShipTCP/Fleet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSem1/CowsandBulls/CowsandBulls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSem1/CowsandBulls/Fleet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSem1/CowsandBulls/Ocean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSem1/CowsandBulls/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSem1/CowsandBulls/Playerr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSem1/CowsandBulls/Ship.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSem1/Swing/SwingApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSem1/Swing/GB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSem1/Swing/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="31" column="14" lean-forward="false" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/reversewordsII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/reversewords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/reverseLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/inter/knapsakJoe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1363,26 +1270,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ctci/LinkedList/deleteNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="40" lean-forward="false" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ctci/LinkedList/kthtoLastElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ctci/LinkedList/DeleteMiddleNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" column="5" lean-forward="false" selection-start-line="34" selection-start-column="3" selection-end-line="59" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -1412,22 +1303,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ctci/LinkedList/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          <folding>
-            <element signature="e#142#143#0" expanded="false" />
-            <element signature="e#168#169#0" expanded="false" />
-            <element signature="e#633#634#0" expanded="false" />
-            <element signature="e#665#666#0" expanded="false" />
-            <element signature="method#insert#0;class#List#0" expanded="false" />
-            <element signature="method#deleteNode#0;class#List#0" expanded="false" />
-            <element signature="method#main#0;class#List#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ctci/LinkedList/intersection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="449">
@@ -1452,6 +1327,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ctci/LinkedList/deleteNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="40" lean-forward="false" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ctci/LinkedList/removeDuplicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1460,10 +1343,239 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ctci/LinkedList/DeleteMiddleNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="5" lean-forward="false" selection-start-line="34" selection-start-column="3" selection-end-line="59" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ctci/LinkedList/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="method#insert#0;class#List#0" expanded="false" />
+            <element signature="method#deleteNode#0;class#List#0" expanded="false" />
+            <element signature="method#main#0;class#List#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ctci/LinkedList/LoopDetection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="270">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/ValidSudoku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/MoveZeroes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="28" column="27" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="28" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/PlusOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="28" column="16" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="28" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="42" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/DeleteNodeLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="31" column="19" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="31" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/RemoveNthNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/ReverseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="37" column="19" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="37" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/MergeTwoSortedLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="757">
+          <caret line="63" column="28" lean-forward="true" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/PallindromeLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="12" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/LinkedListCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IB/TreeTraversalRecursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="695">
+          <caret line="73" column="29" lean-forward="true" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testing/binarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/TreeTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="56" column="38" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="56" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codility/BinaryGap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codility/RotateArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codility/OddOccurrencesInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codility/FrogJump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codility/PermMissingElem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codility/TapeEquilibrium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codility/PermCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codility/FrogRiverOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codility/MissingInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codility/MaxCounters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="25" selection-end-column="9" />
           <folding />
         </state>
       </provider>
