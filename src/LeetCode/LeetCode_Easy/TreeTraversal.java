@@ -1,5 +1,12 @@
 package LeetCode.LeetCode_Easy;
 
+/*              10
+               /  \
+              5   20
+             / \    \
+            3   7   30
+*/
+
 /**
  * Created by joetomjob on 6/22/18.
  */
