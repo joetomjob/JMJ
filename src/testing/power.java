@@ -3,6 +3,7 @@ package testing;
 /**
  * Created by Admin on 29-12-2016.
  */
+/*this algorithm takes O(log(n)) time */
 public class power{
     public int powerofno(int x, int n){
         if (n<=1){
