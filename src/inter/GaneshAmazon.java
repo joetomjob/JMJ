@@ -11,19 +11,20 @@ public class GaneshAmazon {
 
     List<List<Integer>> nearestXsteakHouses(int totalSteakhouses, List<List<Integer>> allocations, int numSteakhouses) {
 
-        Comparator<List<Integer>> comparator = new DistanceComparator();
-        PriorityQueue<List<Integer>> queue =
-                new PriorityQueue<List<Integer>>(totalSteakhouses, comparator);
-        for (int i = 0; i < totalSteakhouses; i++) {
-            queue.add(allocations.get(i));
-        }
-
         List<List<Integer>> res = new ArrayList<List<Integer>>();
 
-        for (int i = 0; i < numSteakhouses; i++) {
-            res.add(queue.poll());
-        }
+        Comparator<List<Integer>> comparator = new DistanceComparator();
+        if(numSteakhouses > 0) {
+            PriorityQueue<List<Integer>> queue =
+                    new PriorityQueue<List<Integer>>(totalSteakhouses, comparator);
+            for (int i = 0; i < totalSteakhouses; i++) {
+                queue.add(allocations.get(i));
+            }
 
+            for (int i = 0; i < numSteakhouses; i++) {
+                res.add(queue.poll());
+            }
+        }
         return res;
 
     }
