@@ -66,13 +66,20 @@ public class IntuitSan {
         inp.add(u7);
         inp.add(u8);
 
-        Object o = 'c'-'0';
-        System.out.print(o);
-
-        String ss = "";
-        ss += 'e';
+//        Object o = 'c'-'0';
+//        System.out.print(o);
+//
+//        String ss = "";
+//        ss += 'e';
 
         IntuitSan s = new IntuitSan();
-        s.theFunction(inp);
+        Map<String, Integer> h =  s.theFunction(inp);
+        for(Map.Entry<String, Integer> e: h.entrySet()) {
+            System.out.print(e.getKey());
+            System.out.print(": ");
+            System.out.print(e.getValue());
+            System.out.println();
+        }
+
     }
 }

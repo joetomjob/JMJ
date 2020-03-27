@@ -3,6 +3,11 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
+/*
+* Question
+* coorditates of all rectangles and their area
+* largest rectangle. rectangle is formed by 1's
+* */
 public class IntuitAllRect {
 
     public static void main(String[] args) {
@@ -78,8 +83,8 @@ public class IntuitAllRect {
                     lookup.put(key, result);
                 }
 
-                System.out.println(lookup);
-                System.out.println(result);
+//                System.out.println(lookup);
+//                System.out.println(result);
 //	                System.out.println(i+" "+height[j]+" "+((right[j] - left[j]) * height[j]));
                 //System.out.println("left "+left[j]+" right "+right[j]);
 //	                System.out.println( i+"   "+(i-height[j]+1)+"  "+left[j]+" "+right[j]);

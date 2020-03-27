@@ -4,7 +4,10 @@ import java.util.ArrayList;
 
 /**
  * Created by joetomjob on 3/6/18.
+ * given a pair. find the which of the given pairs intersect with that pair
  */
+
+
 public class IntuitKet {
     public ArrayList<String> intersection(ArrayList<String> st, String inv){
         ArrayList<String> res = new ArrayList<>();

@@ -3,8 +3,9 @@ package inter;
 import java.io.*;
 import java.util.*;
 import java.util.stream.*;
-
-
+/*  Question
+    Employees with outside friends in each department
+*/
 // BEGIN DEFINITIONS
 // DO NOT MODIFY THIS SECTION
 
