@@ -26,13 +26,13 @@ public class BFSNode {
     }
 
     public static boolean pathExists(BFSNode start, BFSNode goal) {
-        return pathExists(start, goal, new HashSet<String>());
+        return pathExists(start, goal, new HashSet<BFSNode>());
     }
 
-    public static boolean pathExists(BFSNode start, BFSNode goal, Set<String> visited) {
+    public static boolean pathExists(BFSNode start, BFSNode goal, HashSet<BFSNode> visited) {
         Queue<BFSNode> q = new LinkedList<>();
         q.add(start);
-        visited.add(start.item);
+        visited.add(start);
 
         while (!q.isEmpty()) {
             BFSNode c = q.poll();
@@ -41,9 +41,9 @@ public class BFSNode {
             }
 
             for (BFSNode node: c.neighbors) {
-                if(!visited.contains(node.item)) {
+                if(!visited.contains(node)) {
                     q.add(node);
-                    visited.add(node.item);
+                    visited.add(node);
                 }
             }
         }
@@ -64,10 +64,10 @@ public class BFSNode {
         return res;
     }
 
-    public static boolean findPathBFS(BFSNode start, BFSNode goal, HashSet<String> visited, HashMap<BFSNode, BFSNode> parents){
+    public static boolean findPathBFS(BFSNode start, BFSNode goal, HashSet<BFSNode> visited, HashMap<BFSNode, BFSNode> parents){
         Queue<BFSNode> q = new LinkedList<>();
         q.add(start);
-        visited.add(start.item);
+        visited.add(start);
 
         while (!q.isEmpty()){
             BFSNode s = q.poll();
@@ -77,10 +77,10 @@ public class BFSNode {
             }
 
             for (BFSNode node: s.neighbors) {
-                if(!visited.contains(node.item)){
+                if(!visited.contains(node)){
                     parents.put(node, s);
                     q.add(node);
-                    visited.add(node.item);
+                    visited.add(node);
                 }
             }
 

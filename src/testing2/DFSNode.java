@@ -29,14 +29,14 @@ public class DFSNode{
         return pathExists(start, goal, new HashSet<>());
     }
 
-    public static boolean pathExists(DFSNode start, DFSNode goal, HashSet<String> visited) {
+    public static boolean pathExists(DFSNode start, DFSNode goal, HashSet<DFSNode> visited) {
         if(start.neighbors.contains(goal)){
             return true;
         }
 
         for (DFSNode g: start.neighbors) {
-            if(!visited.contains(g.item)) {
-                visited.add(g.item);
+            if(!visited.contains(g)) {
+                visited.add(g);
                 return pathExists(g, goal, visited);
             }
         }
@@ -48,7 +48,7 @@ public class DFSNode{
         HashMap<String, String> parents = new HashMap<>();
         parents.put(start.item, null);
 
-        if(findPathDFS(start, goal, new HashSet<String >(), parents)) {
+        if(findPathDFS(start, goal, new HashSet<DFSNode>(), parents)) {
             String next = goal.item;
             while (next != null) {
                 res.add(0, next);
@@ -60,16 +60,16 @@ public class DFSNode{
 
     // function use the  logic in pathExists function above to determine if a path exists. parents hashmap will save the value for parents in all stage
     // key for hashmap is the child and value is the parent
-    public static boolean findPathDFS(DFSNode start, DFSNode goal, Set<String> visited, HashMap<String, String> parents) {
+    public static boolean findPathDFS(DFSNode start, DFSNode goal, Set<DFSNode> visited, HashMap<String, String> parents) {
         if(start.neighbors.contains(goal)) {
             parents.put(goal.item, start.item);
             return true;
         }
 
         for(DFSNode g: start.neighbors) {
-            if(!visited.contains(g.item)) {
+            if(!visited.contains(g)) {
                 parents.put(g.item, start.item);
-                visited.add(g.item);
+                visited.add(g);
                 return findPathDFS(g, goal, visited, parents);
             }
         }
