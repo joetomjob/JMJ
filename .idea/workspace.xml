@@ -1,26 +1,518 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3ab7d617-185b-42c2-9936-a1f85a2ae5f7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geeksforgeeks/mustdo/EquilibriumPoint.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geeksforgeeks/mustdo/KthSmallestElement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geeksforgeeks/mustdo/MinimumPlatforms.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geeksforgeeks/mustdo/MissingNumberArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geeksforgeeks/mustdo/ReverseArrayingroup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geeksforgeeks/mustdo/String/Pallindrome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geeksforgeeks/mustdo/SubarraySum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geeksforgeeks/mustdo/TrapRainWater.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geeksforgeeks/mustdo/dutchnationalflag.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geeksforgeeks/mustdo/kadence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geeksforgeeks/mustdo/leaderinarray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geeksforgeeks/mustdo/longestincreasingsubsequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geeksforgeeks/mustdo/maxofallsubarray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geeksforgeeks/mustdo/maxsumincreasingsubsequence.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change afterPath="$PROJECT_DIR$/src/testing2/BFSNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW0/HW1P1PerfectCube.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW0/HW1P1PerfectCube.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW0/HW1SumEvenNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW0/HW1SumEvenNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW1/Bucket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW1/Bucket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW1/BucketSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW1/BucketSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW1/Match.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW1/Match.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW1/Planters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW1/Planters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW1/personPref.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW1/personPref.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW2/Angles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW2/Angles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW2/AnglesNew.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW2/AnglesNew.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW2/Bully.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW2/Bully.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW4/Components.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW4/Components.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW4/Triangulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW4/Triangulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW5/FTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW5/FTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW5/Maze.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW5/Maze.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW5/VertexWeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW5/VertexWeight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW5/graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW5/graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW5/k.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW5/k.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW5/vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/AlgorithmsHW/HW5/vertex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Arraylist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Arraylist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShip11/BattleShip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShip11/BattleShip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShip11/Model/Fleet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShip11/Model/Fleet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShip11/Model/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShip11/Model/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShip11/Model/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShip11/Model/Ship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShip11/View/InputView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShip11/View/InputView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShip11/View/Ocean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShip11/View/Ocean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShip11/View/OutputView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShip11/View/OutputView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShip4/BattleShip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShip4/BattleShip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShip4/Fleet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShip4/Fleet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShip4/Ocean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShip4/Ocean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShip4/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShip4/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShip4/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShip4/Ship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipMVC/BattleShip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipMVC/BattleShip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipMVC/Fleet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipMVC/Fleet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipMVC/InputView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipMVC/InputView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipMVC/Ocean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipMVC/Ocean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipMVC/OutputView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipMVC/OutputView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipMVC/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipMVC/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipMVC/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipMVC/Ship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipRMI/BattleShip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipRMI/BattleShip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipRMI/BattleShipClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipRMI/BattleShipClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipRMI/BattleShipClientInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipRMI/BattleShipClientInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipRMI/BattleShipServerInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipRMI/BattleShipServerInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipRMI/Fleet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipRMI/Fleet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipRMI/InputView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipRMI/InputView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipRMI/Ocean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipRMI/Ocean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipRMI/OutputView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipRMI/OutputView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipRMI/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipRMI/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipRMI/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipRMI/Ship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSample$Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSample$Board.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSample$Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSample$Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShip$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShip$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShip$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShip$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShip$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShip$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShip$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShip$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShip$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShip$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShip$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShip$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShipClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShipClient$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShipClient$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShipClient$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShipClient$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShipClient$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShipClient$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShipClient$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShipClient$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShipClient$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShipClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShipClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShipClientInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShipClientInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShipServerInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShipServerInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShipView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/BattleShipView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/Fleet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/Fleet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/Ocean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/Ocean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipSwing/Ship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCP/BattleShip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCP/BattleShip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCP/BattleShipClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCP/BattleShipClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCP/Fleet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCP/Fleet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCP/InputView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCP/InputView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCP/Ocean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCP/Ocean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCP/OutputView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCP/OutputView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCP/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCP/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCP/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCP/Ship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCPPrevious/BattleShip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCPPrevious/BattleShip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCPPrevious/BattleShipClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCPPrevious/BattleShipClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCPPrevious/Fleet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCPPrevious/Fleet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCPPrevious/InputView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCPPrevious/InputView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCPPrevious/Ocean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCPPrevious/Ocean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCPPrevious/OutputView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCPPrevious/OutputView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCPPrevious/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCPPrevious/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCPPrevious/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipTCPPrevious/Ship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipUDP/BattleShip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipUDP/BattleShip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipUDP/BattleShipClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipUDP/BattleShipClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipUDP/BattleShipClient1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipUDP/BattleShipClient1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipUDP/Fleet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipUDP/Fleet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipUDP/InputView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipUDP/InputView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipUDP/Ocean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipUDP/Ocean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipUDP/OutputView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipUDP/OutputView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipUDP/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipUDP/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/BattleShipUDP/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/BattleShipUDP/Ship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Battleshipnet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Battleshipnet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Codility/BinaryGap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Codility/BinaryGap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Codility/FrogJump.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Codility/FrogJump.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Codility/FrogRiverOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Codility/FrogRiverOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Codility/MaxCounters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Codility/MaxCounters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Codility/MissingInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Codility/MissingInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Codility/OddOccurrencesInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Codility/OddOccurrencesInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Codility/PermCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Codility/PermCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Codility/PermMissingElem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Codility/PermMissingElem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Codility/RotateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Codility/RotateArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Codility/TapeEquilibrium.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Codility/TapeEquilibrium.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Collections/ComparableEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Collections/ComparableEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Collections/ComparatorExTree$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Collections/ComparatorExTree$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Collections/ComparatorExTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Collections/ComparatorExTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Collections/HashSetEx_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Collections/HashSetEx_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Collections/HpC_C_ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Collections/HpC_C_ex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Collections/HpCollections.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Collections/HpCollections.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Collections/HpCollections_remove.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Collections/HpCollections_remove.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Collections/HpComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Collections/HpComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Collections/HpComparator_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Collections/HpComparator_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Collections/HpComparator_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Collections/HpComparator_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Collections/HpOKCollections.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Collections/HpOKCollections.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Collections/ListItereatorEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Collections/ListItereatorEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Collections/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Collections/Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Collections/StackArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Collections/StackArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Collections/testing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Collections/testing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Compress.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Compress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/CowsandBulls/CowsandBulls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/CowsandBulls/CowsandBulls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/CowsandBulls/Fleet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/CowsandBulls/Fleet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/CowsandBulls/Ocean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/CowsandBulls/Ocean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/CowsandBulls/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/CowsandBulls/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/CowsandBulls/Playerr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/CowsandBulls/Playerr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/CowsandBulls/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/CowsandBulls/Ship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/DataStructures/DList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/DataStructures/DList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/DataStructures/DListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/DataStructures/DListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/DataStructures/DoublyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/DataStructures/DoublyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/DataStructures/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/DataStructures/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/DataStructures/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/DataStructures/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/DataStructures/Slist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/DataStructures/Slist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/DataStructures/binarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/DataStructures/binarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Eucledian_multithreaded.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Eucledian_multithreaded.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Exceptions/Area.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Exceptions/Area.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Exceptions/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Exceptions/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Exceptions/Deep.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Exceptions/Deep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Exceptions/Excep_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Exceptions/Excep_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Exceptions/Excep_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Exceptions/Excep_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Exceptions/Excep_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Exceptions/Excep_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Exceptions/ExceptionsAndInheritance1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Exceptions/ExceptionsAndInheritance1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Exceptions/ExceptionsAndInheritance2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Exceptions/ExceptionsAndInheritance2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Exceptions/FileIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Exceptions/FileIO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Exceptions/Finally_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Exceptions/Finally_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Exceptions/NumberException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Exceptions/NumberException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Exceptions/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Exceptions/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Exceptions/StQu1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Exceptions/StQu1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Exceptions/StuQu2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Exceptions/StuQu2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Exceptions/TestAbstract.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Exceptions/TestAbstract.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Exceptions/Try.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Exceptions/Try.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Exceptions/finally_example.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Exceptions/finally_example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Fewest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Fewest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/GithubMaze.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/GithubMaze.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/HW10/Elevator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/HW10/Elevator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/HW10/People.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/HW10/People.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/HW7/StorageOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/HW7/StorageOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/HW7/StorageOrderNewGenerics$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/HW7/StorageOrderNewGenerics$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/HW7/StorageOrderNewGenerics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/HW7/StorageOrderNewGenerics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/HW7/StorageOrderNewSort$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/HW7/StorageOrderNewSort$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/HW7/StorageOrderNewSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/HW7/StorageOrderNewSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/HW8/AcgtOutputStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/HW8/AcgtOutputStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/HW8/Acgtinputstream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/HW8/Acgtinputstream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/HW8/Acgtoutputstreamtest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/HW8/Acgtoutputstreamtest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/HW8/binarytest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/HW8/binarytest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/HW9/Mandelbrot$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/HW9/Mandelbrot$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/HW9/Mandelbrot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/HW9/Mandelbrot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/HW9/T_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/HW9/T_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/HW9/T_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/HW9/T_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/Anagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/Anagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/Flip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/Flip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/IBArray1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/IBArray1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/KthRowPascalsTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/KthRowPascalsTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/LongestCommonPrefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/RepeatandMissingNumberArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/RepeatandMissingNumberArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/RoottoLeafPathsWithSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/RoottoLeafPathsWithSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/Spiral2D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/Spiral2D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/SpiralMAtrix2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/SpiralMAtrix2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/TreeTraversalIterative.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/TreeTraversalIterative.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/TreeTraversalRecursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/TreeTraversalRecursive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/addonetonumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/addonetonumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/balancedTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/balancedTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/convertToTtle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/convertToTtle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/findAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/findAnagrams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/inorderTreeTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/inorderTreeTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/largestNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/largestNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/maxabsolutedifference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/maxabsolutedifference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/maxnonnegsubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/maxnonnegsubarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/maxsumcontiguoussubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/maxsumcontiguoussubarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/minstepsinfinitegrid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/minstepsinfinitegrid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/pascaltrianglerows.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/pascaltrianglerows.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/pathsum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/pathsum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/prettyprint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/prettyprint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/reversewords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/reversewords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/rotatematrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/rotatematrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/squareroot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/squareroot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/IB/titleToNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/IB/titleToNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/InheritanceSelfStudy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/InheritanceSelfStudy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Int/micro_ganesh_summer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Int/micro_ganesh_summer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JMJ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JMJ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShip/BattleShip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShip/BattleShip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShip/Fleet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShip/Fleet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShip/Ocean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShip/Ocean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShip/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShip/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShip/Playerr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShip/Playerr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShip/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShip/Ship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/ControllerI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/ControllerI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/Fleet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/Fleet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/FleetScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/FleetScreen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/Game$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/Game$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/GameListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/GameListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/Ocean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/Ocean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/OceanListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/OceanListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/OceanScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/OceanScreen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/RMIClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/RMIClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/RMIServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/RMIServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/ServerConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/ServerConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/Ship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/ShipChanger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/ShipChanger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/TurnAndVictory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/BattleShipRuzan/TurnAndVictory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/HW6/DataStruct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/HW6/DataStruct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/HW6/DataStructOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/HW6/DataStructOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/HW6/DataStructSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/HW6/DataStructSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/HW6/DataStructSpeed.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/HW6/DataStructSpeed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/HW6/interf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/HW6/interf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/HW6/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/HW6/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/HW6/mainforqnone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/HW6/mainforqnone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/TreeSet/HpIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/TreeSet/HpIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/TreeSet/HpTreeSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/TreeSet/HpTreeSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/TreeSet/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/TreeSet/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/TreeSet/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/TreeSet/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/TreeSet/myStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/TreeSet/myStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/TreeSet/mytest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaSem1/TreeSet/mytest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/JavaVersion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/JavaVersion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/AddTwoNosII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/AddTwoNosII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/AddTwoNosLinkedListI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/AddTwoNosLinkedListI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/BFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/ClosestBinarySearchTreeValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/ClosestBinarySearchTreeValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/DFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/DFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/DeleteNodeLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/DeleteNodeLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/FirstUniqueCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/FirstUniqueCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/Heap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/IntersectionLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/IntersectionLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/LinkedListCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/LinkedListCycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/LongestCommonPrefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/MergeTwoSortedLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/MergeTwoSortedLists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/MergekSortedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/MergekSortedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/MinimalTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/MinimalTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/MoveZeroes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/MoveZeroes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/PallindromeLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/PallindromeLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/PlusOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/PlusOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/RemoveNthNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/RemoveNthNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/ReverseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/ReverseLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/RouteBetweenNodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/RouteBetweenNodes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/SymmetricTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/SymmetricTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/TreeTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/TreeTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/ValidSudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LeetCode_Easy/ValidSudoku.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/SpiralMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/SpiralMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/pallindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/pallindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/reverseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/reverseLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/reversewords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/reversewords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/reversewordsII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/reversewordsII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Maze.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Maze.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/CatServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/CatServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/DayTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/DayTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/DayTimeServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/DayTimeServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/DayTimeUDP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/DayTimeUDP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/DayTimeUDPServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/DayTimeUDPServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/HashTableC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/HashTableC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/HashTableInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/HashTableInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/HashTableServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/HashTableServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/HelloC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/HelloC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/HelloImplementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/HelloImplementation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/HelloInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/HelloInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/HelloServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/HelloServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/HelloServer_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/HelloServer_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/HostInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/HostInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/MTS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/MTS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/MTSclient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/MTSclient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/MyServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/MyServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/ObjectWriter_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/ObjectWriter_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/Old_Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/Old_Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/PiClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/PiClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/PiServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/PiServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/Pi_MyServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/Pi_MyServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/ReceiverUDP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/ReceiverUDP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/SenderUDP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/SenderUDP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/UDP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/UDP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Networking/Url_Read.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Networking/Url_Read.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/NewPoint1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/NewPoint1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/OnlineClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/OnlineClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Painting/RectangleArea$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Painting/RectangleArea$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Painting/RectangleArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Painting/RectangleArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Painting/RectangleDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Painting/RectangleDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Painting/RectangleDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Painting/RectangleDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/PiPrecision.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/PiPrecision.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Pikachu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Pikachu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/PikachuSmall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/PikachuSmall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/PrintMaze.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/PrintMaze.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/RMI/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/RMI/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/RMI/Interface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/RMI/Interface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/RMI/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/RMI/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/RMINetExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/RMINetExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/S3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/S3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Storage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Storage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Swing/Calculator$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Swing/Calculator$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Swing/Calculator$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Swing/Calculator$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Swing/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Swing/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Swing/GB$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Swing/GB$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Swing/GB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Swing/GB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Swing/SwingApplication$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Swing/SwingApplication$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Swing/SwingApplication$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Swing/SwingApplication$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Swing/SwingApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Swing/SwingApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/CoresTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/CoresTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/InterruptExample_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/InterruptExample_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/InterruptExample_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/InterruptExample_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/Join.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/Join.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/Join_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/Join_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/M.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/M.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/Matrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/Synchronize_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/Synchronize_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/Synchronize_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/Synchronize_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/Synchronize_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/Synchronize_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/Synchronize_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/Synchronize_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/Synchronize_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/Synchronize_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/Synchronize_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/Synchronize_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/Synchronize_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/Synchronize_8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/T_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/T_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/T_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/T_10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/T_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/T_11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/T_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/T_12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/T_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/T_13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/T_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/T_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/T_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/T_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/T_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/T_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/T_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/T_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/T_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/T_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/T_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/T_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/T_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/T_8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/T_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/T_9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/Thread_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/Thread_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/Thread_1b.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/Thread_1b.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/Thread_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/Thread_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/Thread_R.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/Thread_R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/WaitAndNotify_0.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/WaitAndNotify_0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/WaitAndNotify_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/WaitAndNotify_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/WaitAndNotify_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/WaitAndNotify_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/WaitAndNotify_First.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/WaitAndNotify_First.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/WaitandNotify_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/WaitandNotify_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/X_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/X_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/X_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/X_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/X_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/X_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/waitandnotifynet$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/waitandnotifynet$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/waitandnotifynet$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/waitandnotifynet$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threads/waitandnotifynet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threads/waitandnotifynet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threadtest/Thread_extend_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threadtest/Thread_extend_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Threadtest/Thread_runable_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Threadtest/Thread_runable_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/UseOfThis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/UseOfThis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/X_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/X_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/X_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/X_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/X_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/X_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/X_4HW.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/X_4HW.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/above.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/above.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/caseexample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/caseexample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/codefights/sudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/codefights/sudoku.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/ArraysAndStrings/PalindromePermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/ArraysAndStrings/PalindromePermutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/ArraysAndStrings/RotateMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/ArraysAndStrings/RotateMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/ArraysAndStrings/StringCompression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/ArraysAndStrings/StringCompression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/ArraysAndStrings/ZeroMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/ArraysAndStrings/ZeroMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/ArraysAndStrings/duplicateChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/ArraysAndStrings/duplicateChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/ArraysAndStrings/isSubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/ArraysAndStrings/isSubString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/ArraysAndStrings/oneWay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/ArraysAndStrings/oneWay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/ArraysAndStrings/permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/ArraysAndStrings/permutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/ArraysAndStrings/replace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/ArraysAndStrings/replace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/IntersecctionNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/IntersecctionNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/DeleteMiddleNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/DeleteMiddleNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/List.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/List.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/LoopDetection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/LoopDetection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/Pallindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/Pallindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/ReverseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/ReverseLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/SumLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/SumLists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/deleteNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/deleteNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/intersection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/intersection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/kthtoLastElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/kthtoLastElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/partition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/partition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/removeDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/LinkedList/removeDuplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/permutation_ArrayQ2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/permutation_ArrayQ2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/ctci/zeromatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/ctci/zeromatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/fixerrorHW2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/fixerrorHW2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/functionproblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/functionproblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/funtion2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/funtion2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/EquilibriumPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/EquilibriumPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/MinimumPlatforms.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/MinimumPlatforms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/MissingNumberArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/MissingNumberArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/ReverseArrayingroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/ReverseArrayingroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/SubarraySum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/SubarraySum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/TrapRainWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/TrapRainWater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/dutchnationalflag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/dutchnationalflag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/kadence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/kadence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/leaderinarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/leaderinarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/longestincreasingsubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/longestincreasingsubsequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/maxofallsubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/maxofallsubarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/maxsumincreasingsubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/geeksforgeeks/mustdo/maxsumincreasingsubsequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/googlecodejam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/googlecodejam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/EmployeeModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/EmployeeModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/EmployeeModel2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/EmployeeModel2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/EmployeeStats.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/EmployeeStats.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/EmployeeStats2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/EmployeeStats2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/FriendModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/FriendModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/FriendModel2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/FriendModel2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/GaneshAmazon$DistanceComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/GaneshAmazon$DistanceComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/GaneshAmazon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/GaneshAmazon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/Helpers$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/Helpers$Pair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/Helpers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/Helpers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/Helpers2$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/Helpers2$Pair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/Helpers2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/Helpers2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/Intuit$Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/Intuit$Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/Intuit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/Intuit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/Intuit2$Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/Intuit2$Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/Intuit2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/Intuit2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/IntuitAllRect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/IntuitAllRect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/IntuitKet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/IntuitKet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/IntuitLCA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/IntuitLCA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/IntuitLongWordsMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/IntuitLongWordsMatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/IntuitRas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/IntuitRas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/IntuitRas2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/IntuitRas2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/IntuitRect2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/IntuitRect2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/IntuitRectTh.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/IntuitRectTh.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/IntuitRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/IntuitRectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/IntuitSan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/IntuitSan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/Knapsack01$Index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/Knapsack01$Index.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/Knapsack01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/Knapsack01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/Knapsack2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/Knapsack2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/RectCoordinates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/RectCoordinates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/StringCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/StringCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/StringCalculatorI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/StringCalculatorI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/URLCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/URLCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/Vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/Vertex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/Visa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/Visa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/ganeshAmazon2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/ganeshAmazon2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/ganeshAmazon3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/ganeshAmazon3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/ganeshAmazon3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/ganeshAmazon3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/ganeshThesys.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/ganeshThesys.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/googleCoding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/googleCoding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/googleCoding2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/googleCoding2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/knapsakJoe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/knapsakJoe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/longestsub2char.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/longestsub2char.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/reversesummation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/reversesummation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/inter/runlengthencoding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/inter/runlengthencoding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/pikachuarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/pikachuarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/stringlength24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/stringlength24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/stringtest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/stringtest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/testing/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/testing/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/testing/DayTimeUDP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/testing/DayTimeUDP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/testing/FindMissigElementsInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/testing/FindMissigElementsInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/testing/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/testing/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/testing/MergeSortSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/testing/MergeSortSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/testing/Qu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/testing/Qu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/testing/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/testing/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/testing/QuickSortSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/testing/QuickSortSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/testing/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/testing/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/testing/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/testing/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/testing/Stk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/testing/Stk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/testing/Url_Read.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/testing/Url_Read.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/testing/base.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/testing/base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/testing/binarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/testing/binarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/testing/insertionsort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/testing/insertionsort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/testing/mathworks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/testing/mathworks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/testing/power.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/testing/power.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/testing/quicksort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/testing/quicksort.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,85 +529,6 @@
       <FILTER>LeetCode.LeetCode_Easy.*</FILTER>
     </SUITE>
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FavoritesManager">
-    <favorites_list name="JMJ" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReverseArrayingroup.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/ReverseArrayingroup.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="34" column="49" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TrapRainWater.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/TrapRainWater.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="9" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="39" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1546867876218" expanded="true" signature="447:496" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pallindrome.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/String/Pallindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="53" lean-forward="true" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Visa.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/inter/Visa.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KthSmallestElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/KthSmallestElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="leaderinarray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/leaderinarray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -125,318 +538,28 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>lowe</find>
-      <find>sort</find>
-      <find>Intuit</find>
-      <find>EmployeeStats</find>
-      <find>Helpers</find>
-      <find>EmployeeModel</find>
-      <find>FriendModel</find>
-      <find>lst</find>
-      <find>employeeMap</find>
-      <find>resultHelper</find>
-      <find>&quot;</find>
-      <find>[</find>
-      <find>}</find>
-      <find>]</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/LongestCommonPrefix.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/DeleteNodeLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/RemoveNthNode.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/ReverseLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/MergeTwoSortedLists.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/PallindromeLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/LinkedListCycle.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/BinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/src/Codility/BinaryGap.java" />
-        <option value="$PROJECT_DIR$/src/Codility/RotateArray.java" />
-        <option value="$PROJECT_DIR$/src/Codility/OddOccurrencesInArray.java" />
-        <option value="$PROJECT_DIR$/src/Codility/FrogJump.java" />
-        <option value="$PROJECT_DIR$/src/Codility/PermMissingElem.java" />
-        <option value="$PROJECT_DIR$/src/Codility/TapeEquilibrium.java" />
-        <option value="$PROJECT_DIR$/src/Codility/PermCheck.java" />
-        <option value="$PROJECT_DIR$/src/Codility/FrogRiverOne.java" />
-        <option value="$PROJECT_DIR$/src/Codility/MissingInteger.java" />
-        <option value="$PROJECT_DIR$/src/Codility/MaxCounters.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/Heap.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/BFS.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/DFS.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/RouteBetweenNodes.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/MinimalTree.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/TreeTraversal.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/IntersectionLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/MergekSortedList.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/SymmetricTree.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/ClosestBinarySearchTreeValue.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/FirstUniqueCharacter.java" />
-        <option value="$PROJECT_DIR$/src/testing/power.java" />
-        <option value="$PROJECT_DIR$/src/inter/ganeshAmazon2.java" />
-        <option value="$PROJECT_DIR$/src/googlecodejam.java" />
-        <option value="$PROJECT_DIR$/src/inter/GaneshAmazon.java" />
-        <option value="$PROJECT_DIR$/src/inter/ganeshAmazon3.java" />
-        <option value="$PROJECT_DIR$/src/inter/runlengthencoding.java" />
-        <option value="$PROJECT_DIR$/src/IB/kadence.java" />
-        <option value="$PROJECT_DIR$/src/geeksforgeeks/mustdo/kadence.java" />
-        <option value="$PROJECT_DIR$/src/geeksforgeeks/mustdo/MissingNumberArray.java" />
-        <option value="$PROJECT_DIR$/src/geeksforgeeks/mustdo/SubarraySum.java" />
-        <option value="$PROJECT_DIR$/src/geeksforgeeks/mustdo/dutchnationalflag.java" />
-        <option value="$PROJECT_DIR$/src/geeksforgeeks/mustdo/EquilibriumPoint.java" />
-        <option value="$PROJECT_DIR$/src/geeksforgeeks/mustdo/longestincreasingsubsequence.java" />
-        <option value="$PROJECT_DIR$/src/geeksforgeeks/mustdo/maxsumincreasingsubsequence.java" />
-        <option value="$PROJECT_DIR$/src/geeksforgeeks/mustdo/leaderinarray.java" />
-        <option value="$PROJECT_DIR$/src/geeksforgeeks/mustdo/MinimumPlatforms.java" />
-        <option value="$PROJECT_DIR$/src/geeksforgeeks/mustdo/maxofallsubarray.java" />
-        <option value="$PROJECT_DIR$/src/geeksforgeeks/mustdo/TrapRainWater.java" />
-        <option value="$PROJECT_DIR$/src/inter/Visa.java" />
-        <option value="$PROJECT_DIR$/src/geeksforgeeks/mustdo/ReverseArrayingroup.java" />
-        <option value="$PROJECT_DIR$/src/geeksforgeeks/mustdo/KthSmallestElement.java" />
-        <option value="$PROJECT_DIR$/src/geeksforgeeks/mustdo/String/Pallindrome.java" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState />
   </component>
   <component name="ProjectFrameBounds">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectId" id="1cCakX0qzd5aRsO3kqCKOjTWN1l" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages ProjectPane="false" />
-      <showMembers ProjectPane="false" />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JMJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JMJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JMJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JMJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JMJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JMJ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mustdo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="FullScreen" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="FullScreen" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Visa">
-    <configuration default="false" name="leaderinarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="geeksforgeeks.mustdo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.mustdo.leaderinarray" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JMJ" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="MinimumPlatforms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="geeksforgeeks.mustdo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.mustdo.MinimumPlatforms" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JMJ" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="maxofallsubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="geeksforgeeks.mustdo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.mustdo.maxofallsubarray" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JMJ" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ReverseArrayingroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="geeksforgeeks.mustdo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.mustdo.ReverseArrayingroup" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JMJ" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Visa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="inter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="inter.Visa" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JMJ" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.BFSNode">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -470,112 +593,6 @@
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JMJ" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
       <method />
     </configuration>
     <configuration default="true" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console">
@@ -623,34 +640,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
     <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -670,6 +659,123 @@
       <envs />
       <method />
     </configuration>
+    <configuration name="BFSNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testing2.BFSNode" />
+      <module name="JMJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testing2.DFS" />
+      <module name="JMJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DFS2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testing2.DFS2" />
+      <module name="JMJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DFSNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testing2.DFSNode" />
+      <module name="JMJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testing2.GNode" />
+      <module name="JMJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testing2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="false" name="Scala Console" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console">
       <module name="JMJ" />
       <setting name="vmparams4" value="-Djline.terminal=NONE" />
@@ -677,21 +783,38 @@
       <setting name="consoleArgs" value="-usejavacp" />
       <method />
     </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Scala Console.Scala Console" />
-      <item index="1" class="java.lang.String" itemvalue="Application.leaderinarray" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MinimumPlatforms" />
-      <item index="3" class="java.lang.String" itemvalue="Application.maxofallsubarray" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ReverseArrayingroup" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Visa" />
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DFS2" />
+      <item itemvalue="Application.DFS" />
+      <item itemvalue="Application.GNode" />
+      <item itemvalue="Application.DFSNode" />
+      <item itemvalue="Application.BFSNode" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Visa" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ReverseArrayingroup" />
-        <item index="2" class="java.lang.String" itemvalue="Application.maxofallsubarray" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MinimumPlatforms" />
-        <item index="4" class="java.lang.String" itemvalue="Application.leaderinarray" />
+      <list>
+        <item itemvalue="Application.BFSNode" />
+        <item itemvalue="Application.DFSNode" />
+        <item itemvalue="Application.GNode" />
+        <item itemvalue="Application.DFS2" />
+        <item itemvalue="Application.DFS" />
       </list>
     </recent_temporary>
   </component>
@@ -700,8 +823,8 @@
       <projects_view />
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -737,92 +860,17 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35744235" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32043532" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21352503" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27672955" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2840671" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27672955" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28482586" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35744235" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32043532" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21672772" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
-  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -830,797 +878,334 @@
     <MESSAGE value="Intt" />
     <option name="LAST_COMMIT_MESSAGE" value="Intt" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="483" y="160" key="#xdebugger.evaluate" timestamp="1590037127314">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="483" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1590037127314" />
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom" timestamp="1590047121119">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590047121119" />
+    <state width="1398" height="268" key="GridCell.Tab.0.center" timestamp="1590047121117">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590047121117" />
+    <state width="1398" height="268" key="GridCell.Tab.0.left" timestamp="1590047121116">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590047121116" />
+    <state width="1398" height="268" key="GridCell.Tab.0.right" timestamp="1590047121118">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590047121118" />
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom" timestamp="1590037203925">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590037203925" />
+    <state width="1398" height="201" key="GridCell.Tab.1.center" timestamp="1590037203920">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="201" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1590037203920" />
+    <state width="1398" height="201" key="GridCell.Tab.1.left" timestamp="1590037203919">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="201" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1590037203919" />
+    <state width="1398" height="201" key="GridCell.Tab.1.right" timestamp="1590037203923">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="201" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1590037203923" />
+    <state x="221" y="63" key="SettingsEditor" timestamp="1590035230811">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1590035230811" />
+    <state x="421" y="82" width="598" height="735" key="find.popup" timestamp="1590046690574">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="82" width="598" height="735" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1590046690574" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/reversesummation.java</url>
           <line>8</line>
-          <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/reversesummation.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/reversesummation.java</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/AlgorithmsHW/HW4/Components.java</url>
           <line>56</line>
-          <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/AlgorithmsHW/HW4/Triangulation.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/IB/inorderTreeTraversal.java</url>
           <line>40</line>
-          <properties />
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/IB/inorderTreeTraversal.java</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/IB/balancedTree.java</url>
           <line>25</line>
-          <properties />
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/IB/RoottoLeafPathsWithSum.java</url>
           <line>25</line>
-          <properties />
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/AlgorithmsHW/HW5/Maze.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/googleCoding.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="116" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/IB/LongestCommonPrefix.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="119" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ctci/ArraysAndStrings/replace.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ctci/ArraysAndStrings/oneWay.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ctci/LinkedList/List.java</url>
           <line>99</line>
-          <properties />
           <option name="timeStamp" value="123" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ctci/LinkedList/removeDuplicate.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="124" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ctci/LinkedList/partition.java</url>
           <line>4</line>
-          <properties />
           <option name="timeStamp" value="125" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ctci/LinkedList/partition.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="126" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCode/pallindrome.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="128" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCode/reversewords.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="130" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCode/reversewordsII.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="132" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCode/reversewordsII.java</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="134" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCode/reverseLinkedList.java</url>
           <line>37</line>
-          <properties />
           <option name="timeStamp" value="135" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCode/AddTwoNosII.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="137" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/IntuitRas.java</url>
           <line>28</line>
-          <properties />
           <option name="timeStamp" value="151" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/IntuitKet.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="152" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/IntuitSan.java</url>
           <line>69</line>
-          <properties />
           <option name="timeStamp" value="161" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/StringCalculator.java</url>
           <line>82</line>
-          <properties />
           <option name="timeStamp" value="169" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/IntuitRectangle.java</url>
           <line>40</line>
-          <properties />
           <option name="timeStamp" value="170" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/IntuitRas2.java</url>
           <line>45</line>
-          <properties />
           <option name="timeStamp" value="180" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/IntuitRect2.java</url>
           <line>103</line>
-          <properties />
           <option name="timeStamp" value="182" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/IntuitRect2.java</url>
           <line>78</line>
-          <properties />
           <option name="timeStamp" value="185" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/IntuitRectangle.java</url>
           <line>65</line>
-          <properties />
           <option name="timeStamp" value="189" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/IntuitRectangle.java</url>
           <line>34</line>
-          <properties />
           <option name="timeStamp" value="190" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/IntuitRas.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="193" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/Intuit2.java</url>
           <line>172</line>
-          <properties />
           <option name="timeStamp" value="194" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/Intuit2.java</url>
           <line>156</line>
-          <properties />
           <option name="timeStamp" value="197" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/Knapsack01.java</url>
           <line>118</line>
-          <properties />
           <option name="timeStamp" value="210" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/Knapsack01.java</url>
           <line>44</line>
-          <properties />
           <option name="timeStamp" value="211" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/Knapsack2.java</url>
           <line>39</line>
-          <properties />
           <option name="timeStamp" value="216" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/knapsakJoe.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="217" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ctci/LinkedList/LoopDetection.java</url>
           <line>44</line>
-          <properties />
           <option name="timeStamp" value="224" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/ValidSudoku.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="226" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/LongestCommonPrefix.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="228" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/FirstUniqueCharacter.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="268" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/ganeshAmazon2.java</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="272" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/googlecodejam.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="273" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/googlecodejam.java</url>
           <line>48</line>
-          <properties />
           <option name="timeStamp" value="280" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/ganeshAmazon3.java</url>
           <line>116</line>
-          <properties />
           <option name="timeStamp" value="286" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/runlengthencoding.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="287" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/runlengthencoding.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="288" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/MissingNumberArray.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="296" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/dutchnationalflag.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="306" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/ReverseArrayingroup.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="311" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/inter/Visa.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="312" />
         </line-breakpoint>
       </breakpoints>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
-      <option name="time" value="315" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/DFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-941">
-          <caret line="60" column="26" lean-forward="false" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/BFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1086">
-          <caret line="81" column="25" lean-forward="false" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ctci/TreesandGraphs/DFS.java" />
-    <entry file="file://$PROJECT_DIR$/src/ctci/TreesandGraphs/BFS.java" />
-    <entry file="file://$PROJECT_DIR$/src/ctci/TreesandGraphs/BinarySearchTree.java" />
-    <entry file="file://$PROJECT_DIR$/src/Codility/RotateArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/TreeTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/MergeTwoSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="63" column="28" lean-forward="false" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/LinkedListCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="22" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/IntersectionLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="19" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="35" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/MinimalTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/MergekSortedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/SymmetricTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="10" lean-forward="false" selection-start-line="8" selection-start-column="47" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/RouteBetweenNodes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="67" column="30" lean-forward="false" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/ReverseLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="19" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="37" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testing/binarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testing/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testing/insertionsort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testing/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testing/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testing/MergeSortSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testing/quicksort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testing/power.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/ClosestBinarySearchTreeValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/Heap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="32" lean-forward="false" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LeetCode_Easy/FirstUniqueCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/outputFile.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/outputFileLarge.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/googlecodejam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="60" lean-forward="true" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#533#553#0" expanded="true" />
-            <element signature="e#931#951#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5865">
-          <caret line="428" column="0" lean-forward="false" selection-start-line="428" selection-start-column="0" selection-end-line="428" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JMJ.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inter/ganeshAmazon3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inter/runlengthencoding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inter/GaneshAmazon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inter/ganeshAmazon2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/kadence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/longestincreasingsubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/maxsumincreasingsubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/MinimumPlatforms.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/SubarraySum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/MissingNumberArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/EquilibriumPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/dutchnationalflag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/maxofallsubarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="61" column="5" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/ReverseArrayingroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="34" column="49" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inter/Visa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/KthSmallestElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/leaderinarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/TrapRainWater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="9" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="39" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1546867876218" expanded="true" signature="447:496" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/mustdo/String/Pallindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="53" lean-forward="true" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>scala-sdk-2.12.1</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>JMJ</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
