@@ -45,13 +45,13 @@ public class DFSNode{
 
     public static ArrayList<String> findPath(DFSNode start, DFSNode goal){
         ArrayList<String> res = new ArrayList<>();
-        HashMap<String, String> parents = new HashMap<>();
-        parents.put(start.item, null);
+        HashMap<DFSNode, DFSNode> parents = new HashMap<>();
+        parents.put(start, null);
 
         if(findPathDFS(start, goal, new HashSet<DFSNode>(), parents)) {
-            String next = goal.item;
+            DFSNode next = goal;
             while (next != null) {
-                res.add(0, next);
+                res.add(0, next.item);
                 next = parents.get(next);
             }
         }
@@ -60,15 +60,15 @@ public class DFSNode{
 
     // function use the  logic in pathExists function above to determine if a path exists. parents hashmap will save the value for parents in all stage
     // key for hashmap is the child and value is the parent
-    public static boolean findPathDFS(DFSNode start, DFSNode goal, Set<DFSNode> visited, HashMap<String, String> parents) {
+    public static boolean findPathDFS(DFSNode start, DFSNode goal, Set<DFSNode> visited, HashMap<DFSNode, DFSNode> parents) {
         if(start.neighbors.contains(goal)) {
-            parents.put(goal.item, start.item);
+            parents.put(goal, start);
             return true;
         }
 
         for(DFSNode g: start.neighbors) {
             if(!visited.contains(g)) {
-                parents.put(g.item, start.item);
+                parents.put(g, start);
                 visited.add(g);
                 return findPathDFS(g, goal, visited, parents);
             }

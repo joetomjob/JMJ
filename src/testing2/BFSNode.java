@@ -40,6 +40,7 @@ public class BFSNode {
                 return true;
             }
 
+
             for (BFSNode node: c.neighbors) {
                 if(!visited.contains(node)) {
                     q.add(node);
