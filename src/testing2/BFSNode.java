@@ -53,9 +53,12 @@ public class BFSNode {
 
     public static ArrayList<String> findPath(BFSNode start, BFSNode goal) {
         ArrayList<String> res = new ArrayList<>();
+
         HashMap<BFSNode, BFSNode> parents = new HashMap<>();
         parents.put(start, null);
-        if (findPathBFS(start, goal, new HashSet<>(), parents)) {
+        boolean pathExists = findPathBFS(start, goal, new HashSet<>(), parents);
+
+        if (pathExists) {
             BFSNode n = goal;
             while(n != null) {
                 res.add(0, n.item);

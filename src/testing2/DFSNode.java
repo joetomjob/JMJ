@@ -45,10 +45,12 @@ public class DFSNode{
 
     public static ArrayList<String> findPath(DFSNode start, DFSNode goal){
         ArrayList<String> res = new ArrayList<>();
+
         HashMap<DFSNode, DFSNode> parents = new HashMap<>();
         parents.put(start, null);
+        boolean pathExists = findPathDFS(start, goal, new HashSet<DFSNode>(), parents);
 
-        if(findPathDFS(start, goal, new HashSet<DFSNode>(), parents)) {
+        if(pathExists) {
             DFSNode next = goal;
             while (next != null) {
                 res.add(0, next.item);
