@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ab7d617-185b-42c2-9936-a1f85a2ae5f7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/NextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/CloneGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/MaxPathSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testing2/BFSNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testing2/BFSNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testing2/DFSNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testing2/DFSNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="Application.NextPermutation">
+  <component name="RunManager" selected="Application.CloneGraph">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -181,13 +180,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DFS2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testing2.DFS2" />
+    <configuration name="CloneGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Trees.CloneGraph" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testing2.*" />
+          <option name="PATTERN" value="LeetCode.Trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,13 +208,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testing2.GNode" />
+    <configuration name="MaxPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Trees.MaxPathSum" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testing2.*" />
+          <option name="PATTERN" value="LeetCode.Trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,18 +310,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.BFSNode" />
-      <item itemvalue="Application.DFS2" />
       <item itemvalue="Application.DFSNode" />
-      <item itemvalue="Application.GNode" />
       <item itemvalue="Application.NextPermutation" />
+      <item itemvalue="Application.MaxPathSum" />
+      <item itemvalue="Application.CloneGraph" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CloneGraph" />
+        <item itemvalue="Application.MaxPathSum" />
         <item itemvalue="Application.NextPermutation" />
         <item itemvalue="Application.BFSNode" />
         <item itemvalue="Application.DFSNode" />
-        <item itemvalue="Application.GNode" />
-        <item itemvalue="Application.DFS2" />
       </list>
     </recent_temporary>
   </component>
@@ -394,38 +393,38 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="483" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1590037127314" />
-    <state width="1398" height="201" key="GridCell.Tab.0.bottom" timestamp="1590273288251">
+    <state width="1398" height="201" key="GridCell.Tab.0.bottom" timestamp="1590308241011">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590273288251" />
-    <state width="1398" height="201" key="GridCell.Tab.0.center" timestamp="1590273288249">
+    <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590308241011" />
+    <state width="1398" height="201" key="GridCell.Tab.0.center" timestamp="1590308241009">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590273288249" />
-    <state width="1398" height="201" key="GridCell.Tab.0.left" timestamp="1590273288248">
+    <state width="1398" height="201" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590308241009" />
+    <state width="1398" height="201" key="GridCell.Tab.0.left" timestamp="1590308241009">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590273288248" />
-    <state width="1398" height="201" key="GridCell.Tab.0.right" timestamp="1590273288250">
+    <state width="1398" height="201" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590308241009" />
+    <state width="1398" height="201" key="GridCell.Tab.0.right" timestamp="1590308241010">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590273288250" />
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom" timestamp="1590273288254">
+    <state width="1398" height="201" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590308241010" />
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom" timestamp="1590308241250">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590273288254" />
-    <state width="1398" height="201" key="GridCell.Tab.1.center" timestamp="1590273288253">
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590308241250" />
+    <state width="1398" height="201" key="GridCell.Tab.1.center" timestamp="1590308241245">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1590273288253" />
-    <state width="1398" height="201" key="GridCell.Tab.1.left" timestamp="1590273288252">
+    <state width="1398" height="201" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1590308241245" />
+    <state width="1398" height="201" key="GridCell.Tab.1.left" timestamp="1590308241241">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1590273288252" />
-    <state width="1398" height="201" key="GridCell.Tab.1.right" timestamp="1590273288253">
+    <state width="1398" height="201" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1590308241241" />
+    <state width="1398" height="201" key="GridCell.Tab.1.right" timestamp="1590308241249">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1590273288253" />
+    <state width="1398" height="201" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1590308241249" />
     <state x="221" y="63" key="SettingsEditor" timestamp="1590035230811">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -715,6 +714,16 @@
           <url>file://$PROJECT_DIR$/src/inter/Visa.java</url>
           <line>31</line>
           <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Trees/MaxPathSum.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Trees/CloneGraph.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="325" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
