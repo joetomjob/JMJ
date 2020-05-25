@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ab7d617-185b-42c2-9936-a1f85a2ae5f7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/CloneGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/MaxPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/MultiplyStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/FlattenBinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,13 +61,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="FullScreen" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="Application.CloneGraph">
+  <component name="RunManager" selected="Application.MultiplyStrings">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -166,20 +168,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration name="BFSNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testing2.BFSNode" />
-      <module name="JMJ" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testing2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CloneGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Trees.CloneGraph" />
       <module name="JMJ" />
@@ -194,13 +182,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DFSNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testing2.DFSNode" />
+    <configuration name="FlattenBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Trees.FlattenBinaryTree" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testing2.*" />
+          <option name="PATTERN" value="LeetCode.Trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,6 +203,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.Trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplyStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.MultiplyStrings" />
+      <module name="JMJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.ArraysAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,19 +311,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BFSNode" />
-      <item itemvalue="Application.DFSNode" />
       <item itemvalue="Application.NextPermutation" />
       <item itemvalue="Application.MaxPathSum" />
       <item itemvalue="Application.CloneGraph" />
+      <item itemvalue="Application.FlattenBinaryTree" />
+      <item itemvalue="Application.MultiplyStrings" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiplyStrings" />
+        <item itemvalue="Application.FlattenBinaryTree" />
         <item itemvalue="Application.CloneGraph" />
         <item itemvalue="Application.MaxPathSum" />
         <item itemvalue="Application.NextPermutation" />
-        <item itemvalue="Application.BFSNode" />
-        <item itemvalue="Application.DFSNode" />
       </list>
     </recent_temporary>
   </component>
@@ -389,42 +391,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="Intt" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="0" width="885" height="900" key="#Java" timestamp="1590389313950">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" width="885" height="900" key="#Java/0.0.1440.900@0.0.1440.900" timestamp="1590389313950" />
     <state x="483" y="160" key="#xdebugger.evaluate" timestamp="1590037127314">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="483" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1590037127314" />
-    <state width="1398" height="201" key="GridCell.Tab.0.bottom" timestamp="1590308241011">
+    <state width="1398" height="201" key="GridCell.Tab.0.bottom" timestamp="1590390635311">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590308241011" />
-    <state width="1398" height="201" key="GridCell.Tab.0.center" timestamp="1590308241009">
+    <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590390635311" />
+    <state width="1398" height="201" key="GridCell.Tab.0.center" timestamp="1590390635310">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590308241009" />
-    <state width="1398" height="201" key="GridCell.Tab.0.left" timestamp="1590308241009">
+    <state width="1398" height="201" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590390635310" />
+    <state width="1398" height="201" key="GridCell.Tab.0.left" timestamp="1590390635309">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590308241009" />
-    <state width="1398" height="201" key="GridCell.Tab.0.right" timestamp="1590308241010">
+    <state width="1398" height="201" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590390635309" />
+    <state width="1398" height="201" key="GridCell.Tab.0.right" timestamp="1590390635310">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590308241010" />
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom" timestamp="1590308241250">
+    <state width="1398" height="201" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590390635310" />
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom" timestamp="1590390635605">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590308241250" />
-    <state width="1398" height="201" key="GridCell.Tab.1.center" timestamp="1590308241245">
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590390635605" />
+    <state width="1398" height="201" key="GridCell.Tab.1.center" timestamp="1590390635603">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1590308241245" />
-    <state width="1398" height="201" key="GridCell.Tab.1.left" timestamp="1590308241241">
+    <state width="1398" height="201" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1590390635603" />
+    <state width="1398" height="201" key="GridCell.Tab.1.left" timestamp="1590390635601">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1590308241241" />
-    <state width="1398" height="201" key="GridCell.Tab.1.right" timestamp="1590308241249">
+    <state width="1398" height="201" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1590390635601" />
+    <state width="1398" height="201" key="GridCell.Tab.1.right" timestamp="1590390635604">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1590308241249" />
+    <state width="1398" height="201" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1590390635604" />
     <state x="221" y="63" key="SettingsEditor" timestamp="1590035230811">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -433,10 +439,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="421" y="82" width="598" height="735" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1590046690574" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1590273096451">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1590390244248">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1590273096451" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1590390244248" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -721,9 +727,14 @@
           <option name="timeStamp" value="318" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Trees/CloneGraph.java</url>
-          <line>90</line>
-          <option name="timeStamp" value="325" />
+          <url>file://$PROJECT_DIR$/src/LeetCode/Trees/FlattenBinaryTree.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/MultiplyStrings.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="329" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -731,5 +742,10 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JMJ$MultiplyStrings.ic" NAME="MultiplyStrings Coverage Results" MODIFIED="1590390629108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LeetCode.ArraysAndStrings.*</FILTER>
+    </SUITE>
   </component>
 </project>
