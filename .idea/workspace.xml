@@ -20,14 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ab7d617-185b-42c2-9936-a1f85a2ae5f7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/AddBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/BuySellStockII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/MoveZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/ProductArrayExceptSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/StringToWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Strings/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/BinaryFromPreAndInorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/PopulateNextPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/Zigzag_order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/intersectionOfLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/Recursion/BuySellStock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/DataStructures/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/DataStructures/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/DataStructures/Slist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/DataStructures/Slist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/ArraysAndStrings/RotateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/ArraysAndStrings/RotateArray.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="Application.RotateArray">
+  <component name="RunManager" selected="Application.Anagram">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -172,13 +173,13 @@
       <envs />
       <method />
     </configuration>
-    <configuration name="BuySellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.DynamicProgramming.BuySellStock" />
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Strings.Anagram" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.DynamicProgramming.*" />
+          <option name="PATTERN" value="LeetCode.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,41 +187,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuySellStockII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.BuySellStockII" />
+    <configuration name="BinaryFromPreAndInorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Trees.BinaryFromPreAndInorder" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MoveZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.MoveZeros" />
-      <module name="JMJ" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProductArrayExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.ProductArrayExceptSelf" />
-      <module name="JMJ" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.ArraysAndStrings.*" />
+          <option name="PATTERN" value="LeetCode.Trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,8 +215,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zigzag_order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Trees.Zigzag_order" />
+      <module name="JMJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.Trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="intersectionOfLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Trees.intersectionOfLinkedList" />
+      <module name="JMJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.Trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -315,19 +316,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BuySellStock" />
-      <item itemvalue="Application.ProductArrayExceptSelf" />
-      <item itemvalue="Application.MoveZeros" />
-      <item itemvalue="Application.BuySellStockII" />
       <item itemvalue="Application.RotateArray" />
+      <item itemvalue="Application.Zigzag_order" />
+      <item itemvalue="Application.BinaryFromPreAndInorder" />
+      <item itemvalue="Application.intersectionOfLinkedList" />
+      <item itemvalue="Application.Anagram" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Anagram" />
+        <item itemvalue="Application.intersectionOfLinkedList" />
+        <item itemvalue="Application.BinaryFromPreAndInorder" />
+        <item itemvalue="Application.Zigzag_order" />
         <item itemvalue="Application.RotateArray" />
-        <item itemvalue="Application.BuySellStockII" />
-        <item itemvalue="Application.MoveZeros" />
-        <item itemvalue="Application.ProductArrayExceptSelf" />
-        <item itemvalue="Application.BuySellStock" />
       </list>
     </recent_temporary>
   </component>
@@ -399,42 +400,42 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="0" y="0" width="885" height="900" key="#Java/0.0.1440.900@0.0.1440.900" timestamp="1590389313950" />
-    <state x="483" y="160" key="#xdebugger.evaluate" timestamp="1590037127314">
+    <state x="483" y="160" key="#xdebugger.evaluate" timestamp="1593189964197">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="483" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1590037127314" />
-    <state width="1398" height="201" key="GridCell.Tab.0.bottom" timestamp="1591041715751">
+    <state x="483" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1593189964197" />
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom" timestamp="1593190361365">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591041715751" />
-    <state width="1398" height="201" key="GridCell.Tab.0.center" timestamp="1591041715750">
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593190361365" />
+    <state width="1398" height="268" key="GridCell.Tab.0.center" timestamp="1593190361364">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591041715750" />
-    <state width="1398" height="201" key="GridCell.Tab.0.left" timestamp="1591041715750">
+    <state width="1398" height="268" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593190361364" />
+    <state width="1398" height="268" key="GridCell.Tab.0.left" timestamp="1593190361363">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591041715750" />
-    <state width="1398" height="201" key="GridCell.Tab.0.right" timestamp="1591041715751">
+    <state width="1398" height="268" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593190361363" />
+    <state width="1398" height="268" key="GridCell.Tab.0.right" timestamp="1593190361364">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591041715751" />
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom" timestamp="1591041715753">
+    <state width="1398" height="268" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593190361364" />
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom" timestamp="1593189979722">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591041715753" />
-    <state width="1398" height="201" key="GridCell.Tab.1.center" timestamp="1591041715752">
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593189979722" />
+    <state width="1398" height="201" key="GridCell.Tab.1.center" timestamp="1593189979720">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1591041715752" />
-    <state width="1398" height="201" key="GridCell.Tab.1.left" timestamp="1591041715752">
+    <state width="1398" height="201" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1593189979720" />
+    <state width="1398" height="201" key="GridCell.Tab.1.left" timestamp="1593189979720">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1591041715752" />
-    <state width="1398" height="201" key="GridCell.Tab.1.right" timestamp="1591041715752">
+    <state width="1398" height="201" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1593189979720" />
+    <state width="1398" height="201" key="GridCell.Tab.1.right" timestamp="1593189979721">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1591041715752" />
+    <state width="1398" height="201" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1593189979721" />
     <state x="221" y="63" key="SettingsEditor" timestamp="1590035230811">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
