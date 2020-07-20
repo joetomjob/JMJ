@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.ArraysAndStrings;
 
 public class NextPermutation {
     public static void nextPermutation(int[] a) {
@@ -42,8 +42,9 @@ public class NextPermutation {
     }
 
     public static void main(String[] args) {
-        int[] a = {1,5,8,4,7,6,5,3,1};
+//        int[] a = {1,5,8,4,7,6,5,3,1};
 //        int[] a = {7,6,5,4,1};
+        int[] a = {3,2,1};
         nextPermutation(a);
         printArray(a);
     }

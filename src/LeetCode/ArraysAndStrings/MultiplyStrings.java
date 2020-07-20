@@ -14,8 +14,8 @@ public class MultiplyStrings {
                 int mul = (num1.charAt(i) - '0') * (num2.charAt(j) - '0');
                 int sum = mul + res[p2];
 
-                res[p2] = sum % 10;
                 res[p1] += sum / 10;
+                res[p2] = sum % 10;
             }
         }
         StringBuilder sb = new StringBuilder();
@@ -28,6 +28,6 @@ public class MultiplyStrings {
     }
     public static void main(String[] args) {
         MultiplyStrings m = new MultiplyStrings();
-        System.out.println(m.multiply("3", "2"));
+        System.out.println(m.multiply("35", "22"));
     }
 }
