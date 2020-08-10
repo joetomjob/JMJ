@@ -1,5 +1,10 @@
 package LeetCode.ArraysAndStrings;
 
+import java.util.ArrayList;
+import java.util.Deque;
+import java.util.LinkedList;
+import java.util.List;
+
 public class MergedSortedArrays {
   public void merge(int[] nums1, int m, int[] nums2, int n){
     int i = m-1, j = n-1, end = m+n-1;
