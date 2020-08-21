@@ -20,23 +20,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ab7d617-185b-42c2-9936-a1f85a2ae5f7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/BullsAndCows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/ConfusingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/MaximumPointCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/MedianSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/PallindromicSubstrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/DivideChocolate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/MovingAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/AutocompleteSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/OpenTheLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/TimeToInformAllEmployees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/DivideArrayKConsecutive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/FindAndReplaceString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/InsertInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/LargestRectangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/MedianUnsortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/MissingElementInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/PeakIndexMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Backtracking/TwentyFourGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/HouseRobberII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/LongestIncresingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/MinCostToMakeOneValidPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/TilingRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/TwoNonOverlappingSumK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/CountConnectedComponents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/DisjointSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/FlipEquivalentBinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/HouseRobberIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/LevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/RemoveStones.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/ArraysAndStrings/MergedSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/ArraysAndStrings/MergedSortedArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/ArraysAndStrings/SubarraySumK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/ArraysAndStrings/SubarraySumK.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JMJ/META-INF/JMJ.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/MergedSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/MergedSortedArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/NextPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/NextPermutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/SubarraySumK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/SubarraySumK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/ArraysAndStrings/SubarraySumK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/DynamicProgramming/MaxSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/DynamicProgramming/MaxSubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/HouseRobber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/SnapshotArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/SubarraySumK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/SubarraySumK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/MaxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/MaxSubArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +90,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="Application.NextPermutation">
+  <component name="RunManager" selected="Application.LargestRectangleArea">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -181,36 +190,8 @@
       <envs />
       <method />
     </configuration>
-    <configuration name="MedianSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.MedianSortedArrays" />
-      <module name="JMJ" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.NextPermutation" />
-      <module name="JMJ" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OpenTheLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Trees.OpenTheLock" />
+    <configuration name="FlipEquivalentBinaryTrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Trees.FlipEquivalentBinaryTrees" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -223,8 +204,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubarraySumK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.SubarraySumK" />
+    <configuration name="LargestRectangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.LargestRectangleArea" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -237,13 +218,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeToInformAllEmployees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Trees.TimeToInformAllEmployees" />
+    <configuration name="MissingElementInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.MissingElementInSortedArray" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.Trees.*" />
+          <option name="PATTERN" value="LeetCode.ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PeakIndexMountainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.PeakIndexMountainArray" />
+      <module name="JMJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TilingRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.DynamicProgramming.TilingRectangle" />
+      <module name="JMJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,19 +333,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.OpenTheLock" />
-      <item itemvalue="Application.TimeToInformAllEmployees" />
-      <item itemvalue="Application.SubarraySumK" />
-      <item itemvalue="Application.MedianSortedArrays" />
-      <item itemvalue="Application.NextPermutation" />
+      <item itemvalue="Application.PeakIndexMountainArray" />
+      <item itemvalue="Application.MissingElementInSortedArray" />
+      <item itemvalue="Application.FlipEquivalentBinaryTrees" />
+      <item itemvalue="Application.TilingRectangle" />
+      <item itemvalue="Application.LargestRectangleArea" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NextPermutation" />
-        <item itemvalue="Application.MedianSortedArrays" />
-        <item itemvalue="Application.SubarraySumK" />
-        <item itemvalue="Application.TimeToInformAllEmployees" />
-        <item itemvalue="Application.OpenTheLock" />
+        <item itemvalue="Application.LargestRectangleArea" />
+        <item itemvalue="Application.TilingRectangle" />
+        <item itemvalue="Application.FlipEquivalentBinaryTrees" />
+        <item itemvalue="Application.MissingElementInSortedArray" />
+        <item itemvalue="Application.PeakIndexMountainArray" />
       </list>
     </recent_temporary>
   </component>
@@ -416,62 +425,62 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="490" y="351" width="460" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1595911629146" />
-    <state x="493" y="292" key="#xdebugger.evaluate" timestamp="1596686744507">
+    <state x="493" y="292" key="#xdebugger.evaluate" timestamp="1597933738283">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="493" y="292" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1596686744507" />
-    <state width="1398" height="201" key="GridCell.Tab.0.bottom" timestamp="1597017136387">
+    <state x="493" y="292" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1597933738283" />
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom" timestamp="1597939903719">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597017136387" />
-    <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1597016217848" />
-    <state width="1398" height="201" key="GridCell.Tab.0.center" timestamp="1597017136384">
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597939903719" />
+    <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1597934804487" />
+    <state width="1398" height="268" key="GridCell.Tab.0.center" timestamp="1597939903716">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1597017136384" />
-    <state width="1398" height="201" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1597016217846" />
-    <state width="1398" height="201" key="GridCell.Tab.0.left" timestamp="1597017136382">
+    <state width="1398" height="268" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1597939903716" />
+    <state width="1398" height="201" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1597934804486" />
+    <state width="1398" height="268" key="GridCell.Tab.0.left" timestamp="1597939903715">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1597017136382" />
-    <state width="1398" height="201" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1597016217843" />
-    <state width="1398" height="201" key="GridCell.Tab.0.right" timestamp="1597017136385">
+    <state width="1398" height="268" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1597939903715" />
+    <state width="1398" height="201" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1597934804485" />
+    <state width="1398" height="268" key="GridCell.Tab.0.right" timestamp="1597939903718">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1597017136385" />
-    <state width="1398" height="201" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1597016217847" />
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom" timestamp="1597017136390">
+    <state width="1398" height="268" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1597939903718" />
+    <state width="1398" height="201" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1597934804487" />
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom" timestamp="1597934858774">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597017136390" />
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1597016218098" />
-    <state width="1398" height="201" key="GridCell.Tab.1.center" timestamp="1597017136389">
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1597934858774" />
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1597934804572" />
+    <state width="1398" height="201" key="GridCell.Tab.1.center" timestamp="1597934858773">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1597017136389" />
-    <state width="1398" height="201" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1597016218097" />
-    <state width="1398" height="201" key="GridCell.Tab.1.left" timestamp="1597017136388">
+    <state width="1398" height="201" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1597934858773" />
+    <state width="1398" height="201" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1597934804570" />
+    <state width="1398" height="201" key="GridCell.Tab.1.left" timestamp="1597934858772">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1597017136388" />
-    <state width="1398" height="201" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1597016218097" />
-    <state width="1398" height="201" key="GridCell.Tab.1.right" timestamp="1597017136389">
+    <state width="1398" height="201" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1597934858772" />
+    <state width="1398" height="201" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1597934804570" />
+    <state width="1398" height="201" key="GridCell.Tab.1.right" timestamp="1597934858773">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1597017136389" />
-    <state width="1398" height="201" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1597016218098" />
+    <state width="1398" height="201" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1597934858773" />
+    <state width="1398" height="201" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1597934804571" />
     <state x="221" y="63" key="SettingsEditor" timestamp="1594309425779">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1594309425779" />
-    <state x="421" y="82" width="598" height="735" key="find.popup" timestamp="1595196719374">
+    <state x="421" y="82" width="598" height="735" key="find.popup" timestamp="1597806485716">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="421" y="82" width="598" height="735" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1595196719374" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1596813750982">
+    <state x="421" y="82" width="598" height="735" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1597806485716" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1597935549548">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1596813750982" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1597935549548" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -919,6 +928,36 @@
           <url>file://$PROJECT_DIR$/src/LeetCode/Trees/TimeToInformAllEmployees.java</url>
           <line>25</line>
           <option name="timeStamp" value="487" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/DynamicProgramming/TwoNonOverlappingSumK.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="492" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/DynamicProgramming/MinCostToMakeOneValidPath.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="494" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/DynamicProgramming/MinCostToMakeOneValidPath.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="505" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Trees/LevelOrderTraversal.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="522" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/PeakIndexMountainArray.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="523" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/DynamicProgramming/TilingRectangle.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="528" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

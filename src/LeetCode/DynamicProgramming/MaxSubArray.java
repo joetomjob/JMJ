@@ -12,6 +12,16 @@ public class MaxSubArray {
     }
     return maxSum;
   }
+
+  public int maxSubArray1(int[] nums){
+    int maxSum = Integer.MIN_VALUE, curSum = 0;
+    for (int n : nums) {
+      curSum = Math.max(n, curSum + n);
+      maxSum = curSum > maxSum ? curSum : maxSum;
+    }
+    return maxSum;
+  }
+
   public static void main(String[] args){
     int[] nums = {-2,1,-3,4,-1,2,1,-5,4};
     MaxSubArray m = new MaxSubArray();
