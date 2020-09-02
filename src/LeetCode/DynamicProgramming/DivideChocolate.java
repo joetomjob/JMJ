@@ -13,6 +13,7 @@ public class DivideChocolate {
     int low = 1; // the problem says the value range from 1 to 10^5
     int high = sum / (K+1); // the maximum value of high will be sum / k+1
 
+    // doing binary search on level of sweetness.
     while(low < high) {
       int mid = low + (high - low)/2 + 1;
 
@@ -24,6 +25,7 @@ public class DivideChocolate {
           tmpSum = 0;
         }
       }
+      // if count < K+1, I won't be able to divide the chocolate into K+1 chunks if I consume a sweetness of mid.
       if(count >= K+1){
         low = mid;
       } else {

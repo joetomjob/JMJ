@@ -20,12 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ab7d617-185b-42c2-9936-a1f85a2ae5f7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/MaximalRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/CheapestFlightKStops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/ConnectingCitiesMinCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/Floodfill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/SkylineProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/FindMinElmtRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/GuessTheWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/PallindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/SearchSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/SortCharactersFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Backtracking/ValidTriangleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/MostSimilarPathInGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Others/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/AllPathFromSouceToTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/BinaryTreeVerticalOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/PopulateNextPointerII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/ArraysAndStrings/MissingElementInSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/ArraysAndStrings/MissingElementInSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/DynamicProgramming/DivideChocolate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/DynamicProgramming/DivideChocolate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/MissingElementInSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/MissingElementInSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/DivideChocolate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/DivideChocolate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +82,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="Application.CheapestFlightKStops">
+  <component name="RunManager" selected="Application.ValidTriangleNumber">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -170,8 +182,8 @@
       <envs />
       <method />
     </configuration>
-    <configuration name="CheapestFlightKStops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Trees.CheapestFlightKStops" />
+    <configuration name="AllPathFromSouceToTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Trees.AllPathFromSouceToTarget" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -184,8 +196,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConnectingCitiesMinCost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Trees.ConnectingCitiesMinCost" />
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.FizzBuzz" />
+      <module name="JMJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PopulateNextPointerII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Trees.PopulateNextPointerII" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -198,13 +224,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Floodfill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Trees.Floodfill" />
+    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.Subsets" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.Trees.*" />
+          <option name="PATTERN" value="LeetCode.ArraysAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,27 +238,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximalRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.DynamicProgramming.MaximalRectangle" />
+    <configuration name="ValidTriangleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Backtracking.ValidTriangleNumber" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.DynamicProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SkylineProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Trees.SkylineProblem" />
-      <module name="JMJ" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.Trees.*" />
+          <option name="PATTERN" value="LeetCode.Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,19 +325,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MaximalRectangle" />
-      <item itemvalue="Application.Floodfill" />
-      <item itemvalue="Application.SkylineProblem" />
-      <item itemvalue="Application.ConnectingCitiesMinCost" />
-      <item itemvalue="Application.CheapestFlightKStops" />
+      <item itemvalue="Application.AllPathFromSouceToTarget" />
+      <item itemvalue="Application.FizzBuzz" />
+      <item itemvalue="Application.PopulateNextPointerII" />
+      <item itemvalue="Application.ValidTriangleNumber" />
+      <item itemvalue="Application.Subsets" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CheapestFlightKStops" />
-        <item itemvalue="Application.ConnectingCitiesMinCost" />
-        <item itemvalue="Application.SkylineProblem" />
-        <item itemvalue="Application.Floodfill" />
-        <item itemvalue="Application.MaximalRectangle" />
+        <item itemvalue="Application.ValidTriangleNumber" />
+        <item itemvalue="Application.Subsets" />
+        <item itemvalue="Application.PopulateNextPointerII" />
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.AllPathFromSouceToTarget" />
       </list>
     </recent_temporary>
   </component>
@@ -405,66 +417,66 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="490" y="351" width="460" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1595911629146" />
-    <state x="493" y="292" key="#xdebugger.evaluate" timestamp="1598024243667">
+    <state x="493" y="292" key="#xdebugger.evaluate" timestamp="1598942329116">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="493" y="292" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1598024243667" />
-    <state width="1398" height="268" key="GridCell.Tab.0.bottom" timestamp="1598144409848">
+    <state x="493" y="292" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1598942329116" />
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom" timestamp="1599062696588">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="268" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598144409848" />
-    <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1598134913805" />
-    <state width="1398" height="268" key="GridCell.Tab.0.center" timestamp="1598144409847">
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599062696588" />
+    <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599015654870" />
+    <state width="1398" height="268" key="GridCell.Tab.0.center" timestamp="1599062696587">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="268" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598144409847" />
-    <state width="1398" height="201" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1598134913804" />
-    <state width="1398" height="268" key="GridCell.Tab.0.left" timestamp="1598144409846">
+    <state width="1398" height="268" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599062696587" />
+    <state width="1398" height="201" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1599015654869" />
+    <state width="1398" height="268" key="GridCell.Tab.0.left" timestamp="1599062696587">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="268" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598144409846" />
-    <state width="1398" height="201" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1598134913803" />
-    <state width="1398" height="268" key="GridCell.Tab.0.right" timestamp="1598144409848">
+    <state width="1398" height="268" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599062696587" />
+    <state width="1398" height="201" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1599015654868" />
+    <state width="1398" height="268" key="GridCell.Tab.0.right" timestamp="1599062696588">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="268" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598144409848" />
-    <state width="1398" height="201" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1598134913804" />
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom" timestamp="1598144085458">
+    <state width="1398" height="268" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599062696588" />
+    <state width="1398" height="201" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1599015654869" />
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom" timestamp="1599062604377">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598144085458" />
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1598134913970" />
-    <state width="1398" height="201" key="GridCell.Tab.1.center" timestamp="1598144085457">
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599062604377" />
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599059673511" />
+    <state width="1398" height="201" key="GridCell.Tab.1.center" timestamp="1599062604374">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1598144085457" />
-    <state width="1398" height="201" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1598134913969" />
-    <state width="1398" height="201" key="GridCell.Tab.1.left" timestamp="1598144085457">
+    <state width="1398" height="201" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1599062604374" />
+    <state width="1398" height="201" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1599059673509" />
+    <state width="1398" height="201" key="GridCell.Tab.1.left" timestamp="1599062604374">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1598144085457" />
-    <state width="1398" height="201" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1598134913969" />
-    <state width="1398" height="201" key="GridCell.Tab.1.right" timestamp="1598144085458">
+    <state width="1398" height="201" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1599062604374" />
+    <state width="1398" height="201" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1599059673509" />
+    <state width="1398" height="201" key="GridCell.Tab.1.right" timestamp="1599062604376">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1598144085458" />
-    <state width="1398" height="201" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1598134913969" />
+    <state width="1398" height="201" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1599062604376" />
+    <state width="1398" height="201" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1599059673510" />
     <state x="221" y="63" key="SettingsEditor" timestamp="1594309425779">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1594309425779" />
-    <state x="421" y="82" width="598" height="735" key="find.popup" timestamp="1598135409372">
+    <state x="421" y="82" width="598" height="735" key="find.popup" timestamp="1599021342090">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="421" y="82" width="598" height="735" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1598135409372" />
-    <state x="385" y="210" width="670" height="675" key="run.anything.popup" timestamp="1598132589818">
+    <state x="421" y="82" width="598" height="735" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1599021342090" />
+    <state x="385" y="210" width="670" height="675" key="run.anything.popup" timestamp="1598939354755">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="210" width="670" height="675" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1598132589818" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1598142194750">
+    <state x="385" y="210" width="670" height="675" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1598939354755" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1599018087208">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1598142194750" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1599018087208" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -947,6 +959,36 @@
           <url>file://$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/LargestRectangleArea.java</url>
           <line>7</line>
           <option name="timeStamp" value="529" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/SearchSortedArray.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="538" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/FindMinElmtRotatedArray.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="539" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Trees/AllPathFromSouceToTarget.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="563" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Trees/PopulateNextPointerII.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="566" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Backtracking/ValidTriangleNumber.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="575" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Backtracking/ValidTriangleNumber.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="576" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

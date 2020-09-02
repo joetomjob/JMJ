@@ -4,6 +4,7 @@ public class MissingElementInSortedArray {
   public int missingElement(int[] nums, int k){
     int[] mem = new int[nums.length];
     mem[0] = 0;
+    // build an array to see how many elements are missing till an index in array
     for(int i = 1; i < nums.length; i++){
       mem[i] = mem[i-1] + nums[i] - nums[i-1] - 1;
     }
@@ -28,7 +29,7 @@ public class MissingElementInSortedArray {
     return nums[i-1] + k - curM;
   }
 
-  // binary search - wrong
+  // binary search
   public int missingTillIndex(int index, int[] nums){
     return nums[index] - nums[0] - index;
   }
@@ -45,6 +46,8 @@ public class MissingElementInSortedArray {
         r = mid;
       }
     }
+    // nums[l] will have k elements missing till index l. so the missing number will be between nums[l-1] and nums[l]
+    // so get the no of missing elements till nums[l-1]. nums[l-1] + k - number of missing elements till nums[l-1] will be the answer.
     return nums[l-1] + k - missingTillIndex(l-1, nums);
   }
 
