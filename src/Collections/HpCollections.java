@@ -37,7 +37,7 @@ public class HpCollections {
         args[0] =  "z"; args[1] =  "x";
         args[2] =  "a"; args[3] =  "t";
         List l = Arrays.asList(args);
-        HpCollections_remove.sort(l);
+//        HpCollections_remove.sort(l);
 //        List x = HpOKCollections.sort(l);
 //        Collections.sort(l);
 //        List x = HpCollections.sort(l);
