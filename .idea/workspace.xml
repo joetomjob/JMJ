@@ -20,26 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ab7d617-185b-42c2-9936-a1f85a2ae5f7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/AddStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/IsPallindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/Leaderboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/RandomizedSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/ShuffleAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Backtracking/IslandPerimeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/NumRollsToTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/BoundedBlockingQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/CopyListRandomPointer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/KillProcess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/ReconstructItinerary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/VerticalOrderBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/CandyCrush.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/MaxProductSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/TopKFrequentWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Backtracking/MaxAreaOfIsland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Backtracking/WordBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/BinaryTreeRightSideView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Collections/HpCollections.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/Collections/HpCollections.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/Backtracking/ValidTriangleNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/Backtracking/ValidTriangleNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JMJ/META-INF/JMJ.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSem1/Collections/HpCollections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/HpCollections.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSem1/HW10/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW10/People.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Backtracking/ValidTriangleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Backtracking/ValidTriangleNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +71,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="Application.AddStrings">
+  <component name="RunManager" selected="Application.WordBreak">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -184,8 +171,8 @@
       <envs />
       <method />
     </configuration>
-    <configuration name="AddStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.AddStrings" />
+    <configuration name="CandyCrush" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.CandyCrush" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -198,13 +185,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.DynamicProgramming.CoinChange" />
+    <configuration name="MaxAreaOfIsland" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Backtracking.MaxAreaOfIsland" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.DynamicProgramming.*" />
+          <option name="PATTERN" value="LeetCode.Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,8 +199,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsPallindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.IsPallindrome" />
+    <configuration name="TopKElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.sortingAndSearching.TopKElements" />
+      <module name="JMJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.sortingAndSearching.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopKFrequentWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.TopKFrequentWords" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -226,27 +227,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leaderboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.Leaderboard" />
+    <configuration name="WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Backtracking.WordBreak" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumRollsToTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.DynamicProgramming.NumRollsToTarget" />
-      <module name="JMJ" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.DynamicProgramming.*" />
+          <option name="PATTERN" value="LeetCode.Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,19 +314,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NumRollsToTarget" />
-      <item itemvalue="Application.Leaderboard" />
-      <item itemvalue="Application.CoinChange" />
-      <item itemvalue="Application.IsPallindrome" />
-      <item itemvalue="Application.AddStrings" />
+      <item itemvalue="Application.CandyCrush" />
+      <item itemvalue="Application.MaxAreaOfIsland" />
+      <item itemvalue="Application.TopKElements" />
+      <item itemvalue="Application.TopKFrequentWords" />
+      <item itemvalue="Application.WordBreak" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AddStrings" />
-        <item itemvalue="Application.IsPallindrome" />
-        <item itemvalue="Application.CoinChange" />
-        <item itemvalue="Application.Leaderboard" />
-        <item itemvalue="Application.NumRollsToTarget" />
+        <item itemvalue="Application.WordBreak" />
+        <item itemvalue="Application.MaxAreaOfIsland" />
+        <item itemvalue="Application.TopKFrequentWords" />
+        <item itemvalue="Application.CandyCrush" />
+        <item itemvalue="Application.TopKElements" />
       </list>
     </recent_temporary>
   </component>
@@ -415,66 +402,66 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="490" y="351" width="460" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1595911629146" />
-    <state x="493" y="292" key="#xdebugger.evaluate" timestamp="1599510714897">
+    <state x="493" y="292" key="#xdebugger.evaluate" timestamp="1599843628517">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="493" y="292" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1599510714897" />
-    <state width="1398" height="201" key="GridCell.Tab.0.bottom" timestamp="1599510816656">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="493" y="292" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1599843628517" />
+    <state width="1398" height="201" key="GridCell.Tab.0.bottom" timestamp="1599887091843">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599510816656" />
-    <state width="1398" height="268" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599376670297" />
-    <state width="1398" height="201" key="GridCell.Tab.0.center" timestamp="1599510816655">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599843610630" />
+    <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599887091843" />
+    <state width="1398" height="201" key="GridCell.Tab.0.center" timestamp="1599887091842">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599510816655" />
-    <state width="1398" height="268" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1599376670296" />
-    <state width="1398" height="201" key="GridCell.Tab.0.left" timestamp="1599510816654">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="201" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599843610628" />
+    <state width="1398" height="201" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1599887091842" />
+    <state width="1398" height="201" key="GridCell.Tab.0.left" timestamp="1599887091841">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599510816654" />
-    <state width="1398" height="268" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1599376670296" />
-    <state width="1398" height="201" key="GridCell.Tab.0.right" timestamp="1599510816655">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="201" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599843610627" />
+    <state width="1398" height="201" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1599887091841" />
+    <state width="1398" height="201" key="GridCell.Tab.0.right" timestamp="1599887091842">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599510816655" />
-    <state width="1398" height="268" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1599376670297" />
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom" timestamp="1599510816659">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="201" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599843610629" />
+    <state width="1398" height="201" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1599887091842" />
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom" timestamp="1599887091845">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599510816659" />
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599376670285" />
-    <state width="1398" height="201" key="GridCell.Tab.1.center" timestamp="1599510816658">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599843610757" />
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599887091845" />
+    <state width="1398" height="201" key="GridCell.Tab.1.center" timestamp="1599887091844">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1599510816658" />
-    <state width="1398" height="201" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1599376670284" />
-    <state width="1398" height="201" key="GridCell.Tab.1.left" timestamp="1599510816657">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="201" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1599843610755" />
+    <state width="1398" height="201" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1599887091844" />
+    <state width="1398" height="201" key="GridCell.Tab.1.left" timestamp="1599887091843">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1599510816657" />
-    <state width="1398" height="201" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1599376670284" />
-    <state width="1398" height="201" key="GridCell.Tab.1.right" timestamp="1599510816659">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="201" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1599843610753" />
+    <state width="1398" height="201" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1599887091843" />
+    <state width="1398" height="201" key="GridCell.Tab.1.right" timestamp="1599887091844">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1599510816659" />
-    <state width="1398" height="201" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1599376670285" />
+    <state width="1398" height="201" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1599843610756" />
+    <state width="1398" height="201" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1599887091844" />
     <state x="221" y="63" key="SettingsEditor" timestamp="1594309425779">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1594309425779" />
-    <state x="421" y="82" width="598" height="735" key="find.popup" timestamp="1599510883794">
+    <state x="421" y="82" width="598" height="735" key="find.popup" timestamp="1599842333426">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="421" y="82" width="598" height="735" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1599510883794" />
+    <state x="421" y="82" width="598" height="735" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1599842333426" />
     <state x="385" y="210" width="670" height="675" key="run.anything.popup" timestamp="1598939354755">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="385" y="210" width="670" height="675" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1598939354755" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1599511387665">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1599805454522">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1599511387665" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1599805454522" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1002,6 +989,21 @@
           <url>file://$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/IsPallindrome.java</url>
           <line>5</line>
           <option name="timeStamp" value="606" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/AddStrings.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="607" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/sortingAndSearching/TopKElements.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="615" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Backtracking/WordBreak.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="621" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
