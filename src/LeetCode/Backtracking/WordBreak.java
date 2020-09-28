@@ -54,6 +54,26 @@ public class WordBreak {
     return false;
   }
 
+  // dynamic programming approach. The approach is to divide into subproblems. "catsanddog" can be split into "catsand" & "dog".
+  // "catsand" can be further divided into "cats" & "dog".
+  public boolean wordBreakIV(String s, List<String> wordDict){
+    HashSet<String> set = new HashSet<>(wordDict);
+    // dp array is a boolean array. the first element is set as true. Because, the first is empty string and is always valid.
+    // "" and "catanddog".
+    boolean[] dp = new boolean[s.length()+1];
+    dp[0] = true;
+
+    for(int i = 1; i <= s.length(); i++) {
+      for (int j = 0; j < i; j++) {
+        if (dp[j] && set.contains(s.substring(j, i))) {
+          dp[i] = true;
+          break;
+        }
+      }
+    }
+    return dp[s.length()];
+  }
+
   public static void main(String[] args){
     String s = "applepenapple";
     List<String> dict = new ArrayList();
@@ -66,7 +86,8 @@ public class WordBreak {
     WordBreak w = new WordBreak();
     System.out.println(w.wordBreak(s, dict));
     System.out.println(w.wordBreak(s1, dict1));
-    System.out.println(w.wordBreak(s1, dict1));
+    System.out.println(w.wordBreakIII(s1, dict1));
+    System.out.println(w.wordBreakIV(s1, dict1));
 //    System.out.print(w.wordBreakII(s, dict));
 
   }

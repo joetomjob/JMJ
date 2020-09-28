@@ -20,26 +20,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ab7d617-185b-42c2-9936-a1f85a2ae5f7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/AddDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/BrokenCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/CalculateRectangles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/DistanctBarcodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/FindDisappearedNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/Interview1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/MinimumAddValidParanthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/MinimumStepsAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/RangeSum2DImmutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/RangeSumImmutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/RunningSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/SqrtX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/SubdomainVisitCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/DecodeWays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/MaxLengthRepeatedSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/MinimumKnightMoves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/FindDuplicateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/KidsWithCandies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/LengthOfLastWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/MinTimeAllPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/SmallerNumbersThanCurrent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/UniquePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/UniquePathsII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/WordBreakII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/LinkedListCycleII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/CourseSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/InvertBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/IsSameTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/LCADeepestLeaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/MaxDepthBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/PathSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/Backtracking/WordBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/Backtracking/WordBreak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/DynamicProgramming/Interview2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/DynamicProgramming/Interview2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LeetCode/Backtracking/WordBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Backtracking/WordBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/Interview2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/DynamicProgramming/Interview2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +88,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="Application.Interview2">
+  <component name="RunManager" selected="Application.LinkedListCycle">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -186,22 +188,8 @@
       <envs />
       <method />
     </configuration>
-    <configuration name="BrokenCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.BrokenCalculator" />
-      <module name="JMJ" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DecodeWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.DynamicProgramming.DecodeWays" />
+    <configuration name="ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.DynamicProgramming.ClimbingStairs" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -214,13 +202,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interview1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.Interview1" />
+    <configuration name="IsSameTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Trees.IsSameTree" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.ArraysAndStrings.*" />
+          <option name="PATTERN" value="LeetCode.Trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,27 +216,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interview2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.DynamicProgramming.Interview2" />
+    <configuration name="LinkedListCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.LinkedList.LinkedListCycle" />
+      <module name="JMJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxDepthBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Trees.MaxDepthBinaryTree" />
+      <module name="JMJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.Trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniquePathsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.DynamicProgramming.UniquePathsII" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.DynamicProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Backtracking.WordBreak" />
-      <module name="JMJ" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,19 +331,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BrokenCalculator" />
-      <item itemvalue="Application.Interview1" />
-      <item itemvalue="Application.DecodeWays" />
-      <item itemvalue="Application.WordBreak" />
-      <item itemvalue="Application.Interview2" />
+      <item itemvalue="Application.UniquePathsII" />
+      <item itemvalue="Application.MaxDepthBinaryTree" />
+      <item itemvalue="Application.ClimbingStairs" />
+      <item itemvalue="Application.IsSameTree" />
+      <item itemvalue="Application.LinkedListCycle" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Interview2" />
-        <item itemvalue="Application.WordBreak" />
-        <item itemvalue="Application.DecodeWays" />
-        <item itemvalue="Application.Interview1" />
-        <item itemvalue="Application.BrokenCalculator" />
+        <item itemvalue="Application.LinkedListCycle" />
+        <item itemvalue="Application.IsSameTree" />
+        <item itemvalue="Application.ClimbingStairs" />
+        <item itemvalue="Application.MaxDepthBinaryTree" />
+        <item itemvalue="Application.UniquePathsII" />
       </list>
     </recent_temporary>
   </component>
@@ -417,66 +419,66 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="490" y="351" width="460" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1600098397571" />
-    <state x="493" y="292" key="#xdebugger.evaluate" timestamp="1600239040757">
+    <state x="493" y="292" key="#xdebugger.evaluate" timestamp="1601243319977">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="493" y="292" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1600239040757" />
-    <state width="1398" height="268" key="GridCell.Tab.0.bottom" timestamp="1600840651870">
+    <state x="493" y="292" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1601243319977" />
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom" timestamp="1601265471881">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="268" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600840651870" />
-    <state width="1398" height="268" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1600832414677" />
-    <state width="1398" height="268" key="GridCell.Tab.0.center" timestamp="1600840651869">
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601265471881" />
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1601242048455" />
+    <state width="1398" height="268" key="GridCell.Tab.0.center" timestamp="1601265471879">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="268" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600840651869" />
-    <state width="1398" height="268" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1600832414674" />
-    <state width="1398" height="268" key="GridCell.Tab.0.left" timestamp="1600840651869">
+    <state width="1398" height="268" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601265471879" />
+    <state width="1398" height="268" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1601242048453" />
+    <state width="1398" height="268" key="GridCell.Tab.0.left" timestamp="1601265471878">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="268" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600840651869" />
-    <state width="1398" height="268" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1600832414672" />
-    <state width="1398" height="268" key="GridCell.Tab.0.right" timestamp="1600840651870">
+    <state width="1398" height="268" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601265471878" />
+    <state width="1398" height="268" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1601242048453" />
+    <state width="1398" height="268" key="GridCell.Tab.0.right" timestamp="1601265471880">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="268" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600840651870" />
-    <state width="1398" height="268" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1600832414676" />
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom" timestamp="1600832374295">
+    <state width="1398" height="268" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601265471880" />
+    <state width="1398" height="268" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1601242048454" />
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom" timestamp="1601263786930">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600832374295" />
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599887091845" />
-    <state width="1398" height="201" key="GridCell.Tab.1.center" timestamp="1600832374293">
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601263786930" />
+    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1601178181554" />
+    <state width="1398" height="201" key="GridCell.Tab.1.center" timestamp="1601263786929">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1600832374293" />
-    <state width="1398" height="201" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1599887091844" />
-    <state width="1398" height="201" key="GridCell.Tab.1.left" timestamp="1600832374292">
+    <state width="1398" height="201" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1601263786929" />
+    <state width="1398" height="201" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1601178181553" />
+    <state width="1398" height="201" key="GridCell.Tab.1.left" timestamp="1601263786928">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1600832374292" />
-    <state width="1398" height="201" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1599887091843" />
-    <state width="1398" height="201" key="GridCell.Tab.1.right" timestamp="1600832374294">
+    <state width="1398" height="201" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1601263786928" />
+    <state width="1398" height="201" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1601178181552" />
+    <state width="1398" height="201" key="GridCell.Tab.1.right" timestamp="1601263786930">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1600832374294" />
-    <state width="1398" height="201" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1599887091844" />
+    <state width="1398" height="201" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1601263786930" />
+    <state width="1398" height="201" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1601178181553" />
     <state x="221" y="63" key="SettingsEditor" timestamp="1594309425779">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1594309425779" />
-    <state x="421" y="82" width="598" height="735" key="find.popup" timestamp="1600634008956">
+    <state x="421" y="82" width="598" height="735" key="find.popup" timestamp="1601176629476">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="421" y="82" width="598" height="735" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1600634008956" />
+    <state x="421" y="82" width="598" height="735" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1601176629476" />
     <state x="385" y="210" width="670" height="675" key="run.anything.popup" timestamp="1598939354755">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="385" y="210" width="670" height="675" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1598939354755" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1600833493375">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1601176659513">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1600833493375" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1601176659513" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1069,6 +1071,41 @@
           <url>file://$PROJECT_DIR$/src/LeetCode/DynamicProgramming/DecodeWays.java</url>
           <line>29</line>
           <option name="timeStamp" value="654" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/LengthOfLastWord.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="681" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/SmallerNumbersThanCurrent.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="682" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Trees/PathSum.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="685" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Trees/LCADeepestLeaves.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="686" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Trees/CourseSchedule.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="687" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Trees/CourseSchedule.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="688" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/DynamicProgramming/UniquePathsII.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="689" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
