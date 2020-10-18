@@ -1,4 +1,4 @@
-package Collections;
+package JavaSem1.Collections;
 
 /*
  * "Note: this class has a natural ordering
