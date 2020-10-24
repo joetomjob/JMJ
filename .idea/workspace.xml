@@ -20,88 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ab7d617-185b-42c2-9936-a1f85a2ae5f7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/ArraysAndStrings/MaxDistance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BitManipulation/ReverseBits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/AddTwoNos$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/AddTwoNos.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/AllPathToTarget.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/BrowserHistory$BNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/BrowserHistory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/CandyCrush.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/DecodeString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/FlattenMultilevel$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/FlattenMultilevel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/InvalidTransactions$Transaction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/InvalidTransactions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/Leaderboard$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/Leaderboard$Pdetail.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/Leaderboard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/MeetingRoomII$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/MeetingRoomII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/NumberOfIslands.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/RemoveAdjacentDuplicate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/TwoCityScheduling$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/TwoCityScheduling.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/UndergroundSystem$AvgTime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/UndergroundSystem$StationTime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/UndergroundSystem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/VerticalOrder$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/VerticalOrder$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/VerticalOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/BloombergPractice/WordSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LinkedList/ReorderList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/Trees/GraphValidTree$DSU.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/Trees/GraphValidTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/Trees/InvertBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/Trees/LowestCommonAncestorBST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/DuplicateZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/LongestConsecutiveSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/MaxDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/MaximumProductSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/RemoveDuplicatesSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/SubsetsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Backtracking/NumberOfShipsRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/BloombergPractice/AddTwoNos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/BloombergPractice/AllPathToTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/BloombergPractice/BrowserHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/BloombergPractice/CandyCrush.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/BloombergPractice/DecodeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/BloombergPractice/FlattenMultilevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/BloombergPractice/InvalidTransactions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/BloombergPractice/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/BloombergPractice/Leaderboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/BloombergPractice/MeetingRoomII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/BloombergPractice/NumberOfIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/BloombergPractice/RemoveAdjacentDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/BloombergPractice/TwoCityScheduling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/BloombergPractice/UndergroundSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/BloombergPractice/VerticalOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/BloombergPractice/WordBreakII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/BloombergPractice/WordSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/RemoveDuplicatesII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/ReorderList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/ReverseLinkedListII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Recursion/CombinationSumII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/BinaryTreeLvlTraversalII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/DeepestLeaves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/GraphValidTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/IsSubTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/LowestCommonAncestorBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/MinimumDepthBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/PathSumII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/WordDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/ReorganizeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ArraysAndStrings/SmallestLetterGreaterThanTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Backtracking/CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Backtracking/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Backtracking/PermutationsII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/LinkedList/MiddleOfLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Trees/AverageOfLevelsBinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Collections/ComparableEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Collections/ComparatorExTree$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JMJ/Collections/ComparatorExTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/Backtracking/CountBattleShips.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/Backtracking/CountBattleShips.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LinkedList/LinkedListCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JMJ/LeetCode/LinkedList/LinkedListCycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JMJ/META-INF/JMJ.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSem1/Collections/ComparableEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaSem1/Collections/ComparableEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSem1/Collections/ComparatorExTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaSem1/Collections/ComparatorExTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Backtracking/CountBattleShips.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Backtracking/CountBattleShips.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +74,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="Application.PathSumII">
+  <component name="RunManager" selected="Application.ReorganizeString">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -248,22 +174,8 @@
       <envs />
       <method />
     </configuration>
-    <configuration name="CombinationSumII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Recursion.CombinationSumII" />
-      <module name="JMJ" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PathSumII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Trees.PathSumII" />
+    <configuration name="AverageOfLevelsBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Trees.AverageOfLevelsBinaryTree" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -276,13 +188,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.LinkedList.RemoveDuplicatesII" />
+    <configuration name="MiddleOfLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.LinkedList.MiddleOfLinkedList" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.LinkedList.*" />
+          <option name="PATTERN" value="LeetCode.Trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,8 +202,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.RemoveDuplicatesSortedArray" />
+    <configuration name="PermutationsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Backtracking.PermutationsII" />
+      <module name="JMJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.Backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReorganizeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.ReorganizeString" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -304,8 +230,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubsetsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.SubsetsII" />
+    <configuration name="SmallestLetterGreaterThanTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ArraysAndStrings.SmallestLetterGreaterThanTarget" />
       <module name="JMJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -391,19 +317,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RemoveDuplicatesII" />
-      <item itemvalue="Application.RemoveDuplicatesSortedArray" />
-      <item itemvalue="Application.CombinationSumII" />
-      <item itemvalue="Application.SubsetsII" />
-      <item itemvalue="Application.PathSumII" />
+      <item itemvalue="Application.PermutationsII" />
+      <item itemvalue="Application.SmallestLetterGreaterThanTarget" />
+      <item itemvalue="Application.MiddleOfLinkedList" />
+      <item itemvalue="Application.AverageOfLevelsBinaryTree" />
+      <item itemvalue="Application.ReorganizeString" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PathSumII" />
-        <item itemvalue="Application.SubsetsII" />
-        <item itemvalue="Application.RemoveDuplicatesSortedArray" />
-        <item itemvalue="Application.CombinationSumII" />
-        <item itemvalue="Application.RemoveDuplicatesII" />
+        <item itemvalue="Application.ReorganizeString" />
+        <item itemvalue="Application.AverageOfLevelsBinaryTree" />
+        <item itemvalue="Application.MiddleOfLinkedList" />
+        <item itemvalue="Application.SmallestLetterGreaterThanTarget" />
+        <item itemvalue="Application.PermutationsII" />
       </list>
     </recent_temporary>
   </component>
@@ -479,66 +405,66 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="490" y="351" width="460" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1600098397571" />
-    <state x="493" y="292" key="#xdebugger.evaluate" timestamp="1602313025547">
+    <state x="493" y="292" key="#xdebugger.evaluate" timestamp="1603165717493">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="493" y="292" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1602313025547" />
-    <state width="1398" height="201" key="GridCell.Tab.0.bottom" timestamp="1603003976722">
+    <state x="493" y="292" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1603165717493" />
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom" timestamp="1603580580731">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603003976722" />
-    <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1602905557691" />
-    <state width="1398" height="201" key="GridCell.Tab.0.center" timestamp="1603003976721">
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603580580731" />
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1603166980882" />
+    <state width="1398" height="268" key="GridCell.Tab.0.center" timestamp="1603580580728">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603003976721" />
-    <state width="1398" height="201" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1602905557690" />
-    <state width="1398" height="201" key="GridCell.Tab.0.left" timestamp="1603003976721">
+    <state width="1398" height="268" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603580580728" />
+    <state width="1398" height="268" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1603166980881" />
+    <state width="1398" height="268" key="GridCell.Tab.0.left" timestamp="1603580580727">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603003976721" />
-    <state width="1398" height="201" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1602905557689" />
-    <state width="1398" height="201" key="GridCell.Tab.0.right" timestamp="1603003976722">
+    <state width="1398" height="268" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603580580727" />
+    <state width="1398" height="268" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1603166980880" />
+    <state width="1398" height="268" key="GridCell.Tab.0.right" timestamp="1603580580730">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603003976722" />
-    <state width="1398" height="201" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1602905557690" />
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom" timestamp="1603003976960">
+    <state width="1398" height="268" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603580580730" />
+    <state width="1398" height="268" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1603166980882" />
+    <state width="1398" height="260" key="GridCell.Tab.1.bottom" timestamp="1603345549919">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603003976960" />
-    <state width="1398" height="201" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1602905557921" />
-    <state width="1398" height="201" key="GridCell.Tab.1.center" timestamp="1603003976959">
+    <state width="1398" height="260" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603345549919" />
+    <state width="1398" height="260" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1603165759044" />
+    <state width="1398" height="260" key="GridCell.Tab.1.center" timestamp="1603345549916">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1603003976959" />
-    <state width="1398" height="201" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1602905557920" />
-    <state width="1398" height="201" key="GridCell.Tab.1.left" timestamp="1603003976958">
+    <state width="1398" height="260" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1603345549916" />
+    <state width="1398" height="260" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1603165759043" />
+    <state width="1398" height="260" key="GridCell.Tab.1.left" timestamp="1603345549915">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1603003976958" />
-    <state width="1398" height="201" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1602905557919" />
-    <state width="1398" height="201" key="GridCell.Tab.1.right" timestamp="1603003976959">
+    <state width="1398" height="260" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1603345549915" />
+    <state width="1398" height="260" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1603165759042" />
+    <state width="1398" height="260" key="GridCell.Tab.1.right" timestamp="1603345549916">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="201" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1603003976959" />
-    <state width="1398" height="201" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1602905557921" />
+    <state width="1398" height="260" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1603345549916" />
+    <state width="1398" height="260" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1603165759043" />
     <state x="221" y="63" key="SettingsEditor" timestamp="1594309425779">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1594309425779" />
-    <state x="421" y="82" width="598" height="735" key="find.popup" timestamp="1602913971488">
+    <state x="421" y="82" width="598" height="735" key="find.popup" timestamp="1603579660446">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="421" y="82" width="598" height="735" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1602913971488" />
+    <state x="421" y="82" width="598" height="735" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1603579660446" />
     <state x="385" y="210" width="670" height="675" key="run.anything.popup" timestamp="1598939354755">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="385" y="210" width="670" height="675" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1598939354755" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1601958176279">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1603168079648">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1601958176279" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1603168079648" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1178,9 +1104,9 @@
           <option name="timeStamp" value="704" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Trees/PathSumII.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="723" />
+          <url>file://$PROJECT_DIR$/src/LeetCode/Backtracking/Permutations.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="727" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
